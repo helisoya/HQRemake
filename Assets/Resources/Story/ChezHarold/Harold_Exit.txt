@@ -1,0 +1,9 @@
+setCharacterAlpha(Harold;0;true)
+
+setCharacterBody(Harold;Couch;true)
+setCharacterPosition(Harold;Couch)
+setCharacterRotation(Harold;Couch)
+
+setCharacterAlpha(Harold;1;false)
+
+load(ChezHarold/Salon)

@@ -1,0 +1,5 @@
+setInteractionChapter(Left;Intersection/MoveLeft)
+setInteractionChapter(Right;Intersection/MoveRight)
+setInteractionChapter(Exit;MAP-Vlatyr-Intersection)
+
+interact

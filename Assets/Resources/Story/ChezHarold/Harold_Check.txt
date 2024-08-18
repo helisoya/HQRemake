@@ -1,0 +1,10 @@
+setCharacterBody(Harold;Mug;false)
+setCharacterAlpha(Harold;0;true)
+
+setCharacterPosition(Harold;Front)
+setCharacterRotation(Harold;Front)
+setCharacterAlpha(Harold;1;false)
+
+if(rickeyLandQuest = 1) ChezHarold/Harold_RickeyLandQuest1
+if(mainQuest = 10) ChezHarold/Harold_End
+load(ChezHarold/Harold_Default)

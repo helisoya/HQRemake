@@ -1,0 +1,9 @@
+if(mainQuest = 5) BraiseFortress/Gate_MainQuest5
+
+fadeBg(1;true)
+
+setBackground(BraiseGate)
+
+fadeBg(0;false)
+
+load(BraiseFortress/Gate)

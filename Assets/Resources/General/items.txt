@@ -1,0 +1,12 @@
+# Game Items
+# KEY DEFAULT_VALUE
+
+playerName Ramos
+mainQuest 0
+discoveredIntersection 0
+talkedAboutSwampToHarold 0
+rescueQuest -1
+discoveredFortress 0
+GUARDTalkedJob 0
+rickeyLandQuest -1
+keysQuest -1

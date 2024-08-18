@@ -1,0 +1,8 @@
+setCharacterAlpha(GUARD;0;true)
+
+setCharacterPosition(GUARD;Balcony)
+setCharacterRotation(GUARD;Balcony)
+
+setCharacterAlpha(GUARD;1;false)
+
+load(BraiseFortress/Gate)

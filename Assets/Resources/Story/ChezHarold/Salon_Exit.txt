@@ -1,0 +1,8 @@
+fadeBg(1;true)
+
+removeCharacter(Harold)
+setBackground(HaroldExterior)
+
+fadeBg(0;false)
+
+load(ChezHarold/Arrive)

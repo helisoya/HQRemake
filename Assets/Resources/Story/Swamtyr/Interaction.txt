@@ -1,0 +1,6 @@
+setInteractionChapter(Path;Swamtyr/LeavePath)
+setInteractionChapter(Car;Swamtyr/Car)
+setInteractionChapter(Exit;MAP-Vlatyr-Swamtyr)
+setInteractionChapter(OldWoman;Swamtyr/OldWoman_Check)
+
+interact

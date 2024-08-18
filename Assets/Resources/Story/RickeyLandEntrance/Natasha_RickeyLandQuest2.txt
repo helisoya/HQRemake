@@ -1,0 +1,15 @@
+dialog([MC];_;false;RickeyLandEntrance_Natasha_RickeyLandQuest2_1)
+
+dialog(Natasha;Natasha;false;RickeyLandEntrance_Natasha_RickeyLandQuest2_2)
+dialog(narrator;_;false;RickeyLandEntrance_Natasha_RickeyLandQuest2_3)
+dialog(Natasha;Natasha;false;RickeyLandEntrance_Natasha_RickeyLandQuest2_4)
+dialog(Natasha;Natasha;false;RickeyLandEntrance_Natasha_RickeyLandQuest2_5)
+dialog(Natasha;Natasha;false;RickeyLandEntrance_Natasha_RickeyLandQuest2_6)
+
+dialog([MC];_;false;RickeyLandEntrance_Natasha_RickeyLandQuest2_7)
+dialog(narrator;_;false;RickeyLandEntrance_Natasha_RickeyLandQuest2_8)
+
+
+variable(rickeyLandQuest;3)
+
+load(RickeyLandEntrance/Natasha_Exit)

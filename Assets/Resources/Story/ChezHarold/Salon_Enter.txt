@@ -1,0 +1,12 @@
+fadeBg(1;true)
+
+setBackground(HaroldSalon)
+
+addCharacter(Harold;false)
+setCharacterPosition(Harold;Couch)
+setCharacterRotation(Harold;Couch)
+setCharacterBody(Harold;Couch;true)
+
+fadeBg(0;false)
+
+load(ChezHarold/Salon)

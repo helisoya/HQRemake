@@ -1,0 +1,114 @@
+# ------------------------------------------------------------------------
+# -------------------- Title Screen & Settings ---------------------------
+# ------------------------------------------------------------------------
+
+
+title_preMenu = Click to play
+title_newGame = New Game
+title_continue = Continue
+title_quit = Quit
+title_settings = Settings
+settings_audio = Audio
+settings_bgm = BGM
+settings_sfx = SFX
+settings_voice = Voice
+settings_screen = Screen
+settings_fullscreen = Fullscreen
+title_enterText = Enter your name...
+title_finishText = Continue
+title_descName = Enter your name
+end_thanks = Thanks for playing !
+
+# ------------------------------------------------------------------------
+# ----------------------- Minigames --------------------------------------
+# ------------------------------------------------------------------------
+
+rules_name = Rules
+rules_continue = Continue
+rules_goal = Objective
+rules_controls = Controls
+
+rules_DK_goal = Survive for 30 seconds. Dodge in the opposite direction to the daggers.
+rules_DK_controls = Arrow keys : Dodge in the arrow's direction
+
+rules_SR_goal = Escape the ogre by dodging the obstacles. 
+rules_SR_controls = Arrow keys : Move in the arrow's direction
+
+rules_PPR_goal = Score at least 20 points to win. Find out which words Rickey prefers.
+rules_PPR_controls = Click on a word to use it
+
+rules_CM_goal = Survive for 60 seconds. Evade the falling rocks.
+rules_CM_controls = Arrow keys : Move in the arrow's direction
+
+rules_FM_goal = Find the correct door to catch up with Katsumoto and the dragon.
+rules_FM_controls = Click on a door to enter it
+
+rules_CF_goal = Charm the dragon by hitting a note's corresponding key.
+rules_CF_controls = Arrow keys : Trigger a note
+
+game_life = HP : 
+game_player = Player :
+
+LFB_Wrong = Wrong !
+
+PPR_Parc = Park
+PPR_Amour = Love
+PPR_Argent = Money
+PPR_Arme = Weapon
+PPR_Visiteur = Visitor
+PPR_Impot = Taxes
+PPR_Employes = Employees
+PPR_Garde = Guard
+PPR_BoutiqueDeSouvenir = Souvenir Shop
+PPR_Chateau = Castle
+PPR_Amitié = Friendship
+PPR_Rap = Rap
+PPR_Panzer = Panzer
+PPR_Intrus = Intruder
+PPR_DisneyLand = DisneyLand
+PPR_Rickey = Rickey
+PPR_Beaute = Beauty
+PPR_Artifices = Fireworks
+PPR_Harold = Harold
+PPR_SeigneurBraise = Lord Ember
+
+
+# ------------------------------------------------------------------------
+# ----------------------------- Map --------------------------------------
+# ------------------------------------------------------------------------
+
+ChezHarold = Harold's House
+Intersection = Intersection
+RickeyLand = RickeyLand
+Swamp = Swamp
+Swamtyr = Swamtyr
+BraiseFortress = Ember Fortress
+Mountains = Mountains
+Mines = Mines
+
+# ------------------------------------------------------------------------
+# -------------------------- Quests --------------------------------------
+# ------------------------------------------------------------------------
+
+mainQuest = To slay a dragon
+mainQuest_0 = Access the Ember Fortress
+mainQuest_1 = Go through the swamp
+mainQuest_2 = Access the Ember Fortress
+mainQuest_3 = Obtain a VIP pass
+mainQuest_4 = Find the fortress's keys
+mainQuest_5 = Talk to Harold
+
+rescueQuest = Rescue
+rescueQuest_0 = Rescue the old man from the swamp
+rescueQuest_1 = Talk to the old woman in Swamtyr
+
+rickeyLandQuest = VIP pass
+rickeyLandQuest_0 = Go to RickeyLand
+rickeyLandQuest_1 = Talk to Harold
+rickeyLandQuest_2 = Buy a RickeyLand ticket from Natasha
+rickeyLandQuest_3 = Enter RickeyLand
+rickeyLandQuest_4 = Give the VIP pass to GUARD
+
+keysQuest = The keys
+keysQuest_0 = Find the wizard from the mountains
+keysQuest_1 = Bring the keys back to GUARD

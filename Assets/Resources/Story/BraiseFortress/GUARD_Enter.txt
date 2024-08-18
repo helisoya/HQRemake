@@ -1,0 +1,10 @@
+if(mainQuest = 2) BraiseFortress/MainQuest2
+
+setCharacterAlpha(GUARD;0;true)
+
+setCharacterPosition(GUARD;Front)
+setCharacterRotation(GUARD;Front)
+
+setCharacterAlpha(GUARD;1;false)
+
+load(BraiseFortress/GUARD)

@@ -1,0 +1,11 @@
+if(rickeyLandQuest = 4) BraiseFortress/GUARD_RickeyLandQuest3
+if(keysQuest = 1) BraiseFortress/GUARD_KeysQuest1
+if(GUARDTalkedJob = 1) BraiseFortress/GUARD_AdditionalChoice
+
+dialog(GUARD;GUARD;false;Fortress_Gate_GUARD_Default)
+
+choice Choice_Chat
+	Choice_Ideas BraiseFortress/GUARD_MainQuest_Check
+	Choice_AboutJob BraiseFortress/GUARD_Job
+	Choice_AboutEmber BraiseFortress/GUARD_Ember
+	Choice_Nothing BraiseFortress/GUARD_Exit

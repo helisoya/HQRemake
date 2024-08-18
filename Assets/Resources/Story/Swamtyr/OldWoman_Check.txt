@@ -1,0 +1,12 @@
+setCharacterAlpha(OldWoman;0;true)
+
+setCharacterPosition(OldWoman;Front)
+setCharacterRotation(OldWoman;Front)
+
+setCharacterAlpha(OldWoman;1;false)
+
+if(rescueQuest = -1) Swamtyr/OldWoman_RescueQuestStart
+if(rescueQuest = 0) Swamtyr/OldWoman_RescueQuest0
+if(rescueQuest = 1) Swamtyr/OldWoman_RescueQuestEnd
+
+load(Swamtyr/OldWoman_Default)

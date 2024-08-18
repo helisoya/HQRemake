@@ -1,0 +1,4 @@
+dialog(Harold;Harold;false;ChezHarold_Harold_MainQuest1_1)
+dialog(Harold;Harold;false;ChezHarold_Harold_MainQuest1_2)
+
+load(ChezHarold/Harold_Default)

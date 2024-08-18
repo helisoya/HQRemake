@@ -1,0 +1,3 @@
+setInteractionChapter(Exit;Swamp/River_Exit)
+
+interact

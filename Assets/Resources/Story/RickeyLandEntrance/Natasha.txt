@@ -1,0 +1,9 @@
+if(rickeyLandQuest = 0) RickeyLandEntrance/Natasha_RickeyLandQuest0
+if(rickeyLandQuest = 2) RickeyLandEntrance/Natasha_RickeyLandQuest2
+
+dialog(Natasha;Natasha;false;RickeyLandEntrance_Natasha_Default)
+
+choice Choice_Chat
+	Choice_AboutPark RickeyLandEntrance/Natasha_AboutPark
+	Choice_AboutYou RickeyLandEntrance/Natasha_AboutYou
+	Choice_Nothing RickeyLandEntrance/Natasha_Exit

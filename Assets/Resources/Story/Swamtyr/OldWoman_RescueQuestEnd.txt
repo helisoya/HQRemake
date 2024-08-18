@@ -1,0 +1,8 @@
+dialog(OldWoman;OldWoman;false;Swamtyr_OldWoman_RescueQuest1_1)
+dialog(OldWoman;OldWoman;false;Swamtyr_OldWoman_RescueQuest1_2)
+dialog([MC];_;false;Swamtyr_OldWoman_RescueQuest1_3)
+dialog(OldWoman;OldWoman;false;Swamtyr_OldWoman_RescueQuest1_4)
+
+variable(rescueQuest;100)
+
+load(Swamtyr/OldWoman_Exit)

@@ -1,0 +1,7 @@
+playMusic(Exploration_1)
+removeAllCharacters()
+setBackground(SwampEntrance)
+
+if(mainQuest = 0) Swamp/Discovery
+
+load(Swamp/Interaction)

@@ -1,0 +1,4 @@
+dialog(GUARD;GUARD;false;Fortress_Gate_GUARD_MainQuest3_1)
+dialog(GUARD;GUARD;false;Fortress_Gate_GUARD_MainQuest3_2)
+
+load(BraiseFortress/GUARD)

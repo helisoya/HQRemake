@@ -1,0 +1,7 @@
+playMusic(Exploration_1)
+removeAllCharacters()
+setBackground(RickeyLandEntrance)
+
+if(rickeyLandQuest > -1) RickeyLandEntrance/AddNatasha
+
+load(RickeyLandEntrance/Interaction)

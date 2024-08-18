@@ -1,0 +1,2 @@
+if(mainQuest = 3) BraiseFortress/GUARD_Help_MainQuest3
+if(mainQuest = 4) BraiseFortress/GUARD_Help_MainQuest4

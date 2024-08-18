@@ -1,0 +1,8 @@
+addCharacter(OldMan;false)
+setCharacterPosition(OldMan;OldManSpot)
+setCharacterRotation(OldMan;OldManSpot)
+
+setInteractionChapter(OldMan;Swamp/River_OldMan_RescueQuest0)
+setInteractionChapter(Exit;Swamp/River_Exit)
+
+interact

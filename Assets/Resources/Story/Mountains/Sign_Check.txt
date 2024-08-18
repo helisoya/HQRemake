@@ -1,0 +1,3 @@
+if(keysQuest = 0) Mountains/KeysQuest0
+
+load(Mountains/Sign_Default)

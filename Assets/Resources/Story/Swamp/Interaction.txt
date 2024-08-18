@@ -1,0 +1,4 @@
+setInteractionChapter(Path;Swamp/River_Enter)
+setInteractionChapter(Exit;MAP-Vlatyr-Swamp)
+
+interact

@@ -1,0 +1,3 @@
+dialog(narrator;_;false;Fortress_Gate_MainQuest5_1)
+
+load(BraiseFortress/Interaction)

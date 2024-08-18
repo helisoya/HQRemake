@@ -1,0 +1,10 @@
+setCharacterAlpha(OldMan;0;true)
+
+setCharacterPosition(OldMan;Front)
+setCharacterRotation(OldMan;Front)
+
+setCharacterAlpha(OldMan;1;false)
+
+if(rescueQuest = 1) Swamtyr/OldMan_RescueQuest1
+
+load(Swamtyr/OldMan_Default)

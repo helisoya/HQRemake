@@ -1,0 +1,7 @@
+playMusic(Exploration_2)
+removeAllCharacters()
+setBackground(BraiseBridge)
+
+if(discoveredFortress = 0) BraiseFortress/Discovery
+
+load(BraiseFortress/Interaction)

@@ -1,0 +1,4 @@
+setInteractionChapter(Bridge;BraiseFortress/Gate_Enter)
+setInteractionChapter(Exit;MAP-Vlatyr-BraiseFortress)
+
+interact

@@ -1,0 +1,8 @@
+addCharacter(GUARD;false)
+setCharacterPosition(GUARD;Balcony)
+setCharacterRotation(GUARD;Balcony)
+
+setInteractionChapter(GUARD;BraiseFortress/GUARD_Enter)
+setInteractionChapter(Exit;BraiseFortress/Gate_Exit)
+
+interact

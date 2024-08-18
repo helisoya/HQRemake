@@ -1,0 +1,4 @@
+dialog(OldMan;OldMan;false;Swamtyr_OldMan_RescueQuest1_1)
+dialog(OldMan;OldMan;false;Swamtyr_OldMan_RescueQuest1_2)
+
+load(Swamtyr/OldMan_Exit)

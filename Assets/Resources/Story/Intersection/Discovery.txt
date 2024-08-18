@@ -1,0 +1,7 @@
+dialog(narrator;_;false;Intersection_Intro_1)
+dialog(narrator;_;false;Intersection_Intro_2)
+dialog(narrator;_;false;Intersection_Intro_3)
+dialog(narrator;_;false;Intersection_Intro_4)
+
+variable(discoveredIntersection;1)
+load(Intersection/Interaction)

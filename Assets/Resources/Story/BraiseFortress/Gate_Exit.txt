@@ -1,0 +1,8 @@
+fadeBg(1;true)
+
+setBackground(BraiseBridge)
+removeAllCharacters()
+
+fadeBg(0;false)
+
+load(BraiseFortress/Arrive)

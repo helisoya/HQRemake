@@ -1,0 +1,4 @@
+setInteractionChapter(Harold;ChezHarold/Harold_Check)
+setInteractionChapter(Exit;ChezHarold/Salon_Exit)
+
+interact

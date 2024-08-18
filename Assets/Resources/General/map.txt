@@ -1,0 +1,15 @@
+# Map setup
+
+# [MAP_NAME]
+# ID NextChapter KEY VALUE
+# ID HIDDEN
+# ID NextChapter ALWAYS
+
+[Vlatyr]
+ChezHarold ChezHarold/Arrive ALWAYS
+Intersection Intersection/Arrive ALWAYS
+RickeyLand RickeyLandEntrance/Arrive discoveredIntersection 1
+Swamp Swamp/Arrive discoveredIntersection 1
+Swamtyr Swamtyr/Arrive mainQuest 2
+BraiseFortress BraiseFortress/Arrive mainQuest 2
+Mountains Mountains/Arrive mainQuest 4

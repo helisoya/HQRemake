@@ -1,0 +1,6 @@
+addCharacter(Natasha;false)
+setCharacterPosition(Natasha;Entrance)
+setCharacterRotation(Natasha;Entrance)
+setInteractionChapter(Natasha;RickeyLandEntrance/Natasha_Enter)
+
+load(RickeyLandEntrance/Interaction)

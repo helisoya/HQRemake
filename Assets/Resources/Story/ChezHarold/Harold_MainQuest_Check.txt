@@ -1,0 +1,6 @@
+if(mainQuest = 1) ChezHarold/Harold_MainQuest1
+if(mainQuest = 2) ChezHarold/Harold_MainQuest2
+if(mainQuest = 3) ChezHarold/Harold_MainQuest3
+if(mainQuest = 4) ChezHarold/Harold_MainQuest4
+
+load(ChezHarold/Harold_MainQuest0)

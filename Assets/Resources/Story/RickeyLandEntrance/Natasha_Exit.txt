@@ -1,0 +1,9 @@
+setCharacterAlpha(Natasha;0;true)
+
+setCharacterPosition(Natasha;Entrance)
+setCharacterRotation(Natasha;Entrance)
+
+setCharacterAlpha(Natasha;1;false)
+
+load(RickeyLandEntrance/Interaction)
+

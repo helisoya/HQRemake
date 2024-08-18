@@ -1,0 +1,12 @@
+dialog(Harold;Harold;false;ChezHarold_Harold_You_1)
+dialog(Harold;Harold;false;ChezHarold_Harold_You_2)
+dialog(Harold;Harold;false;ChezHarold_Harold_You_3)
+dialog(Harold;Harold;false;ChezHarold_Harold_You_4)
+
+setCharacterEye(Harold;Surprise)
+dialog(Harold;Harold;false;ChezHarold_Harold_You_5)
+
+setCharacterEye(Harold;Normal)
+dialog(Harold;Harold;false;ChezHarold_Harold_You_6)
+
+load(ChezHarold/Harold_Default)

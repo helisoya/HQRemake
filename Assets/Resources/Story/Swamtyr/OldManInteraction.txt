@@ -1,0 +1,6 @@
+addCharacter(OldMan;false)
+setCharacterPosition(OldMan;Civilian2)
+setCharacterRotation(OldMan;Civilian2)
+setInteractionChapter(OldMan;Swamtyr/OldMan_Check)
+
+load(Swamtyr/Interaction)

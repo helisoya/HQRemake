@@ -1,0 +1,2 @@
+dialog([MC];_;false;ChezHarold_Intro_No)
+load(Intro/Katsumoto)

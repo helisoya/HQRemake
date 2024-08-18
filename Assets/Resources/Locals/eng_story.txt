@@ -1,0 +1,838 @@
+# -----------------------------------------------------------
+# --------------- Characters --------------------------------
+# -----------------------------------------------------------
+
+
+Char_Harold = Harold
+Char_Rickey = Rickey
+Char_Boyardee = Boyardee
+Char_Runcan = Knight of Runan
+Char_Waldo = Waldo
+Char_??? = ???
+Char_Dragon = Dragon
+Char_Katsumoto = Katsumoto
+Char_Touriste = Tourist
+Char_Foule = Peoples
+Char_Natasha = Natasha
+Char_Ogre = Ogre
+Char_Archer = Archer
+Char_Mage = Wizard
+Char_GUARD = GUARD
+Char_Braise = Ember
+Char_OldMan = Old Man
+Char_OldWoman = Old Woman
+
+# -----------------------------------------------------------
+# --------------- Choices -----------------------------------
+# -----------------------------------------------------------
+
+Choice_Generic = What will you do ?
+Choice_Chat = What will you talk about ?
+Choice_Road = Which road should you take ?
+
+Choice_Map = Map
+Choice_Harold = Talk to Harold
+Choice_CheckArea = Check area
+Choice_Nothing = Nothing (Leave)
+Choice_MoveOut = Continue
+
+Choice_Ideas = Any ideas ?
+Choice_AboutRegion = About the region
+Choice_AboutYou = About you
+Choice_AboutJob = About your job
+Choice_AboutEmber = About Lord Ember
+Choice_AboutAssassin = About the assassin
+Choice_AboutPark = About the park
+
+Choice_Left = Go left
+Choice_Right = Go right
+
+Choice_Accept = Accept
+Choice_Refuse = Refuse
+
+Choice_RunAway = Run Away
+
+
+# ---------------------------------------------------------
+# -------------------- Test -------------------------------
+# ---------------------------------------------------------
+
+Test_1 = This is a test
+Test_2 = This is another test
+Test_3 = Hello, [MC] !
+Test_4 = Did you know I am an exceptional dancer ?
+Test_5 = Wait ! Come back !
+
+
+# ---------------------------------------------------------
+# ------------------- Intro -------------------------------
+# ---------------------------------------------------------
+
+
+Intro_1 = ...................
+Intro_2 = I... where am I ?
+Intro_3 = It looks like I'm in a.... castle ?
+Intro_4 = How did I get here ?
+Intro_5 = I don't remember coming here. Did someone bring me here ?
+Intro_6 = I should explore a little bit my surroundings.
+Intro_7 = Who knows what I will find here ?
+Intro_8 = As I say that, a strange door catches my eyes.
+Intro_9 = I open it, and it leads to a gigantic room.
+Intro_10 = Uh ? It seems like a treasure room.
+Intro_11 = Maybe I will find gold there !
+Intro_12 = I then quickly enter the room.
+Intro_13 = It is truly gigantic. A mountain of gold is sitting upstairs.
+Intro_14 = I'm rich !
+Intro_15 = Quick ! I need to take as much as I can !
+Intro_16 = Grr !
+Intro_17 = Suddenly, I hear a powerful roar...
+Intro_18 = I turn around, and I find myself in front of a terrible dragon.
+Intro_19 = Grr ! Mortal, you dare steal from my castle ?
+Intro_20 = I'm going to roast you for that ! Grr !
+Intro_21 = NNNOOOOOOOOOOOOOOOOO !
+Intro_22 = Please, have mercy ! Let us find another arrangement !
+Intro_23 = Silence ! I'm going to roast you, and eat you whole !
+Intro_24 = The dragon prepares himself to roast me alive.
+Intro_25 = I have to find a way out of here !
+Intro_26 = I try to escape using the main door, but the dragon reacts faster than me.
+Intro_27 = MUAH AH AH AH ! You thought you could escape me ?
+Intro_28 = Feel my power, mortal !
+Intro_29 = The dragon suddenly breathes on me.
+Intro_30 = I am roasted by the dragon's fire breath.
+Intro_31 = THE END
+
+
+
+# ---------------------------------------------------------
+# ------------- Chez Harold -------------------------------
+# ---------------------------------------------------------
+
+ChezHarold_Intro_1 = .....
+ChezHarold_Intro_2 = .....
+ChezHarold_Intro_3 = I open my eyes, I'm in a bedroom that isn't my own.
+ChezHarold_Intro_4 = That was a dream ? I'm not really dead then ?
+ChezHarold_Intro_5 = This explains so much...
+ChezHarold_Intro_6 = I have to find however where I am.
+ChezHarold_Intro_7 = This house is clearly not mine...
+ChezHarold_Intro_8 = Was I kidnapped during the night ?
+ChezHarold_Intro_9 = I get up and start going to the door.
+ChezHarold_Intro_10 = Suddenly, the door opens, and an old man enters the room.
+ChezHarold_Intro_11 = AHHH !
+ChezHarold_Intro_12 = AHHH !
+ChezHarold_Intro_13 = What are you doing in my bedroom ? Who are you ?
+ChezHarold_Intro_14 = I'm going to call the federal police if you try to steal anything !
+ChezHarold_Intro_15 = What ? But if you own this house, then you are the one who kidnapped me !
+ChezHarold_Intro_16 = Me, a kidnapper ? Never ! I would never do such a thing !
+ChezHarold_Intro_17 = Then how do you explain how I got here ? I couldn't sleep-walk all the way here !
+ChezHarold_Intro_18 = Mmmhhh.......
+ChezHarold_Intro_19 = AHHHH ! But of course ! That's it then !
+ChezHarold_Intro_20 = I'm going to explain everything to you ! Oh, and call me Harold !
+ChezHarold_Intro_21 = Actually, I invoked you in this world, Hero !
+ChezHarold_Intro_22 = What ? This is stupid ! I'm not a Hero !
+ChezHarold_Intro_23 = Of course you are ! You are the Hero [MC] !
+ChezHarold_Intro_24 = How ? How do you know my name ?
+ChezHarold_Intro_25 = Ah, Ah ! I wasn't going to invoke a noob ! So I checked your skills beforehand.
+ChezHarold_Intro_26 = But then... Why did you make me come here ?
+ChezHarold_Intro_27 = Oh well, it's very simple ! I'm going to explain everything !
+ChezHarold_Intro_28 = You see, there is a terrible dragon living in the region.
+ChezHarold_Intro_29 = He lives in the Ember Fortress, hence his name : Lord Ember.
+ChezHarold_Intro_30 = He's really evil ! He likes to burn cars just because he thinks it's funny !
+ChezHarold_Intro_31 = It is also said that he possesses an incredible treasure !
+ChezHarold_Intro_32 = This is where you come in, [MC] !
+ChezHarold_Intro_33 = You are going to go kill this ruthless fire-breathing tyrant !
+ChezHarold_Intro_34 = And get me the treasure as a bonus...
+ChezHarold_Intro_35 = I would have done it myself, but I took an arrow to the knee recently...
+ChezHarold_Intro_36 = That's why I need you to help me with this task, [MC]. 
+ChezHarold_Intro_37 = You're asking me to kill a dragon and steal his treasure ?
+ChezHarold_Intro_38 = It's not much ! I've seen worse back in the days, I can assure you !
+ChezHarold_Intro_39 = If you kill him, you'll get a prize and I will send you back to your world !
+ChezHarold_Intro_40 = What kind of prize ?
+ChezHarold_Intro_41 = You'll see ! So, It's a good offer, right ?
+ChezHarold_Intro_42 = Mmmhhh...
+ChezHarold_Intro_No = I refuse to h-
+ChezHarold_Intro_Yes = Very well, I accept to h-
+ChezHarold_Intro_43 = Thank you for helping me, [MC] ! I knew I could count on you !
+ChezHarold_Intro_44 = I have a nagging feeling that my choice didn't matter...
+ChezHarold_Intro_45 = Oh, no ! A prompt appeared, right ?
+ChezHarold_Intro_46 = Oh well ! I must go back to my books.
+ChezHarold_Intro_47 = I am currently reading a new book for my... side-job.
+ChezHarold_Intro_48 = It's... a cooking book ! I love cooking for my grandsons !
+ChezHarold_Intro_49 = Alright, good luck ! Do come and find me if you need help.
+ChezHarold_Intro_50 = Harold exits the room, leaving me alone.
+ChezHarold_Intro_51 = What an adventure... Will I be able to do it ?
+ChezHarold_Intro_52 = Well, I should head out for now...
+ChezHarold_Intro_53 = I exit the room and start going to the main door.
+ChezHarold_Intro_54 = I enter the living room. Harold is already reading his book.
+ChezHarold_Intro_55 = I then arrive at the front door. It's time to start my adventure.
+ChezHarold_Intro_56 = I open it and find myself outside.
+ChezHarold_Intro_57 = Finally some fresh air...
+ChezHarold_Intro_58 = Okay, I should find the dragon now.
+ChezHarold_Intro_59 = I start moving away from Harold's house.
+ChezHarold_Intro_60 = A shuriken suddenly fall near me.
+ChezHarold_Intro_61 = I turn around, to find a powerful warrior looking at me.
+ChezHarold_Intro_62 = Thee, stand ho !
+ChezHarold_Intro_63 = Thee wonneth't wend any further  ! I shall maketh sure of yond !
+ChezHarold_Intro_64 = .... What ?
+ChezHarold_Intro_65 = The warrior unsheathes his sword. He might be trying to kill me.
+ChezHarold_Intro_66 = I am Katsumoto, the most wondrous samurai of the Runan climature.
+ChezHarold_Intro_67 = I hath heard yond thee did want to killeth the fiend Lord Ember.
+ChezHarold_Intro_68 = But beware ! I, Katsumoto, most wondrous samurai of Runan, sayeth the following :
+ChezHarold_Intro_69 = Lord Ember shall beest slay'd by me, and his treasure shall beest mine !
+ChezHarold_Intro_70 = Not if I do it before you !
+ChezHarold_Intro_71 = Thee wanteth to race me to the castle ? Yond is hilarious !
+ChezHarold_Intro_72 = I, Katsumoto, shall slay thee anon ! 'twill beest easy.
+ChezHarold_Intro_73 = Alloweth us start our duel, unarm'd knight !
+ChezHarold_Intro_74 = Katsumoto starts throwing shurikens at me.
+
+ChezHarold_Intro_75 = I manage relatively easily to dodge the shurikens.
+ChezHarold_Intro_76 = Calamity ! Thy seven dragons technique is did suppose to beest unavoidable.
+ChezHarold_Intro_77 = I shall has't mine own revenge ! I shall recall thy name, [MC] !
+ChezHarold_Intro_78 = The samurai runs away and disappear in the nearby forest.
+ChezHarold_Intro_79 = A very curious character...
+ChezHarold_Intro_80 = I should hurry. I don't want him to get to the dragon first.
+ChezHarold_Intro_81 = I can interact with highlighted objects. I can also move by interacting with the screen's bottom border.
+ChezHarold_Intro_82 = If I get lost, I can always try to ask Harold for directions.
+
+ChezHarold_Car_1 = Harold's car. It's locked, so I can't enter it.
+
+ChezHarold_Harold_Region_1 = We are currently in the province of Vlatyr. It is a part of the United Provinces of Kosky.
+ChezHarold_Harold_Region_2 = It's a small, province surrounded by mountains. Peaceful most of the time.
+ChezHarold_Harold_Region_3 = Vlatyr is the only city of the province, hence it's name.
+ChezHarold_Harold_Region_4 = There is also a village beyond the swamp, "Swamtyr", but the swamp is too dangerous.
+ChezHarold_Harold_Region_5 = People say there is an ogre living there. You don't want to meet such a beast.
+ChezHarold_Harold_Region_6 = Until a few months ago, you could use a road to get to Swamtyr without entering the swamp.
+ChezHarold_Harold_Region_7 = But there was an accident, and the road can't be used for now.
+ChezHarold_Harold_Region_8 = ... There is also RickeyLand, an amusement park not far from here.
+ChezHarold_Harold_Region_9 = The owner, Rickey, is a bit... eccentric ? I really don't understand him much.
+ChezHarold_Harold_Region_10 = Lastly, Vlatyr is home to the terrible Lord Ember. He is your target.
+ChezHarold_Harold_Region_11 = He lives in a fortress hidden in the mountains. Nobody ever came back alive from there.
+ChezHarold_Harold_Region_12 = But this about sums it up for the province. Not much to see, but it's still a nice place for a vacation !
+
+ChezHarold_Harold_You_1 = Me ? Well, let's see...
+ChezHarold_Harold_You_2 = I am Harold, currently enjoying my peaceful retirement.
+ChezHarold_Harold_You_3 = Back in the days, I was an exceptional dancer. Everybody was jealous of my abilities.
+ChezHarold_Harold_You_4 = But now, I mostly read... and bake cakes for my grandchildren.
+ChezHarold_Harold_You_5 = They... are really something, let me tell you. They once set the kitchen on fire !
+ChezHarold_Harold_You_6 = But I guess this is what happens when you get old.
+
+ChezHarold_Harold_MainQuest0_1 = Right now, you should search for a way to get to the Ember fortress.
+ChezHarold_Harold_MainQuest0_2 = To get there, you need to get through either RickeyLand or the swamp.
+ChezHarold_Harold_MainQuest0_3 = RickeyLand might be an easier pick, but it might be closed.
+ChezHarold_Harold_MainQuest0_4 = If that's the case, you'll have to go through the swamp, then head to Swamtyr.
+ChezHarold_Harold_MainQuest0_5 = It's dangerous, but there is no other way. The other road to Swamtyr is currently blocked.
+
+ChezHarold_Harold_MainQuest1_1 = It seems that the only option is to go through the swamp...
+ChezHarold_Harold_MainQuest1_2 = Be careful, [MC]. Rumors says an ogre lurks deep inside it.
+
+ChezHarold_Harold_MainQuest2_1 = You managed to survive the swamp AND kill the ogre ? Most impressive !
+ChezHarold_Harold_MainQuest2_2 = Now, you only need to go to Swamtyr, and take the road to the Ember fortress.
+
+ChezHarold_Harold_MainQuest3_1 = To enter the fortress, you need a VIP pass from RickeyLand ?
+ChezHarold_Harold_MainQuest3_2 = That's strange... I never heard of anything like it.
+ChezHarold_Harold_MainQuest3_3 = Pretty sure you can get Rickey's autograph though.
+
+ChezHarold_Harold_MainQuest3_Runcan_1 = The knight of Runan.... Back so soon ?
+ChezHarold_Harold_MainQuest3_Runcan_2 = Uh ? Oh, don't worry about me. Just mumbling.
+
+ChezHarold_Harold_MainQuest4_1 = A wizard stole the fortress's keys ?
+ChezHarold_Harold_MainQuest4_2 = That's... ironic when you think about it.
+
+ChezHarold_Harold_RickeyLandQuest1_1 = [MC] ! Back so soon ? Did you make some progress ?
+ChezHarold_Harold_RickeyLandQuest1_2 = Yes, well... The guard at the fortress won't let me enter because he wants a "VIP pass".
+ChezHarold_Harold_RickeyLandQuest1_3 = Long story short, it's actually an autograph from Rickey, the founder of RickeyLand.
+ChezHarold_Harold_RickeyLandQuest1_4 = I... what ? I mean... I see ?
+ChezHarold_Harold_RickeyLandQuest1_5 = And in order to enter RickeyLand, I need to buy a ticket.
+ChezHarold_Harold_RickeyLandQuest1_6 = And you don't have money on you, got it.
+ChezHarold_Harold_RickeyLandQuest1_7 = Hold on... I must have some spare change around here...
+ChezHarold_Harold_RickeyLandQuest1_8 = Harold starts looking for money on his table.
+ChezHarold_Harold_RickeyLandQuest1_9 = Ah, here ! This should be enough.
+ChezHarold_Harold_RickeyLandQuest1_10 = He gives me a 10 galuses bill. This is more than enough.
+ChezHarold_Harold_RickeyLandQuest1_11 = Thank you, Harold. Now I'll be able to get his autograph...
+ChezHarold_Harold_RickeyLandQuest1_12 = What a strange fellow, this guard... Oh well, good luck ! 
+
+ChezHarold_Harold_Default = [MC] ! Do you need help with anything ?
+
+
+ChezHarold_End_1 = When I arrive, Harold is already outside.
+ChezHarold_End_2 = [MC] ! You're back ! How did it go ?
+ChezHarold_End_3 = I killed the dragon, and got your "treasure" back.
+ChezHarold_End_4 = Ah, Ah... Thank you very much.
+ChezHarold_End_5 = I'm sorry for tricking you like that.
+ChezHarold_End_6 = I thought you wouldn't believe me if I told you the truth...
+ChezHarold_End_7 = But hey, it worked out in the end, right ?
+ChezHarold_End_8 = Yes, I suppose...
+ChezHarold_End_9 = So ! Thanks to your efforts, Vlatyr is now safe.
+ChezHarold_End_10 = The dragon is gone, and cars will stop being targeted.
+ChezHarold_End_11 = You can't even begin to understand how much this was a problem.
+ChezHarold_End_12 = I think I saw some burned cars on my journey. I can guess the troubles he caused.
+ChezHarold_End_13 = Yes. Well, I suppose it's time for me to send you back, as I had promised.
+ChezHarold_End_14 = Here ! Drink this !
+ChezHarold_End_15 = Harold gives me his mug. Its content is green, what is it ?
+ChezHarold_End_16 = It's a potion that will send you back to your world.
+ChezHarold_End_17 = I see. Thank you, Harold.
+ChezHarold_End_18 = You're welcome ! Maybe we'll see each other another time ? Who knows...
+ChezHarold_End_19 = Maybe. For now, goodbye.
+ChezHarold_End_20 = Farewell, [MC].
+ChezHarold_End_21 = I drink the potion. I pass out instantly.
+ChezHarold_End_22 = When I come to, I'm home, in the real world.
+ChezHarold_End_23 = Well, that was some adventure.
+ChezHarold_End_24 = I wonder if I'll meet Harold again...
+
+
+
+# ---------------------------------------------------------
+# ------------- Intersection ------------------------------
+# ---------------------------------------------------------
+
+
+Intersection_Intro_1 = I get to a crossroad. There are two paths in front of me.
+Intersection_Intro_2 = The left path leads to some sort of amusement park. Maybe it's open ?
+Intersection_Intro_3 = The right path leads to a dense forest.
+Intersection_Intro_4 = I have to choose a path, but which one is the correct one ?
+
+
+# ---------------------------------------------------------
+# --------------- Rickeyland ------------------------------
+# ---------------------------------------------------------
+
+RickeyLandEntrance_Door_Closed_1 = The door is closed. Maybe the park isn't open yet ?
+
+RickeyLandEntrance_Door_NoTicket_1 = Hey ! You need to buy a ticket before entering the park.
+
+RickeyLandEntrance_Door_Done_1 = I don't need to go back.
+
+
+RickeyLandEntrance_Natasha_Default = Hello. Do you require assistance ?
+
+RickeyLandEntrance_Natasha_RickeyLandQuest0_1 = Hello,  I am Natasha. Welcome to RickeyLand, the greatest park of the country !
+RickeyLandEntrance_Natasha_RickeyLandQuest0_2 = Do you require a ticket ? Are you going alone ?
+RickeyLandEntrance_Natasha_RickeyLandQuest0_3 = Yes, I do require a ticket. And I'm alone.
+RickeyLandEntrance_Natasha_RickeyLandQuest0_4 = I see. Are you coming for a special occasion ?
+RickeyLandEntrance_Natasha_RickeyLandQuest0_5 = Well, I heard there was some sort of event at noon today.
+RickeyLandEntrance_Natasha_RickeyLandQuest0_6 = Ah, yes. At noon, you can win a special autograph from Rickey, the park's founder.
+RickeyLandEntrance_Natasha_RickeyLandQuest0_7 = An autograph ? Come on, GUARD... You sent me here because you wanted it, right ?
+RickeyLandEntrance_Natasha_RickeyLandQuest0_8 = Well, I wish you luck for the contest. Only the winner gets an autograph.
+RickeyLandEntrance_Natasha_RickeyLandQuest0_9 = It's a poetry contest. The prettiest poem will win.
+RickeyLandEntrance_Natasha_RickeyLandQuest0_10 = But the competition will be fierce. I heard many people from around the country came for this event.
+RickeyLandEntrance_Natasha_RickeyLandQuest0_11 = I... see.
+RickeyLandEntrance_Natasha_RickeyLandQuest0_12 = This is going to be hard. I don't even know how to write poems.
+RickeyLandEntrance_Natasha_RickeyLandQuest0_13 = Alright. So it will be 8.9 galuses for the ticket.
+RickeyLandEntrance_Natasha_RickeyLandQuest0_14 = Oh... I... don't have money, do I ?
+RickeyLandEntrance_Natasha_RickeyLandQuest0_15 = Maybe Harold has some. I'll have to ask him. In the meantime...
+RickeyLandEntrance_Natasha_RickeyLandQuest0_16 = Uhm... I seem to have forgotten my wallet at home. May I go fetch it ?
+RickeyLandEntrance_Natasha_RickeyLandQuest0_17 = Oh, of course. I'm not holding you back.
+RickeyLandEntrance_Natasha_RickeyLandQuest0_18 = Great. Now to find Harold.
+
+RickeyLandEntrance_Natasha_RickeyLandQuest2_1 = Hello again. I found my wallet.
+RickeyLandEntrance_Natasha_RickeyLandQuest2_2 = Ah, of course. Let me take your money...
+RickeyLandEntrance_Natasha_RickeyLandQuest2_3 = I give her the money for the ticket. Thank god Harold had some spare change.
+RickeyLandEntrance_Natasha_RickeyLandQuest2_4 = All good ! Here, this is your ticket.
+RickeyLandEntrance_Natasha_RickeyLandQuest2_5 = If you want to go to the contest, you'll have to go to the main plaza.
+RickeyLandEntrance_Natasha_RickeyLandQuest2_6 = You won't miss it, there will be plenty of people.
+RickeyLandEntrance_Natasha_RickeyLandQuest2_7 = Thank you, madam.
+RickeyLandEntrance_Natasha_RickeyLandQuest2_8 = Alright, time to write some poems and win autographs.
+
+RickeyLandEntrance_Natasha_AboutYou_1 = I am Natasha, I work here as a secretary to the founder.
+RickeyLandEntrance_Natasha_AboutYou_2 = Due to our lack of personnel right now, I'm helping with the ticket sales.
+RickeyLandEntrance_Natasha_AboutYou_3 = I started working here a few years ago, back then I was the only employee here.
+RickeyLandEntrance_Natasha_AboutYou_4 = Now the situation is much better, we aren't as shorthanded as before.
+
+RickeyLandEntrance_Natasha_AboutPark_1 = RickeyLand is the brain child of our founder, Rickey.
+RickeyLandEntrance_Natasha_AboutPark_2 = He founded it 5 years ago from scratch. It was really hard at first, let me tell you.
+RickeyLandEntrance_Natasha_AboutPark_3 = Apparently, he also tried to create other parks before, in other countries. But they all failed.
+RickeyLandEntrance_Natasha_AboutPark_4 = But RickeyLand is different. We're now the first park in the country.
+
+
+RickeyLand_MainQuest3_1 = Well... time to win this autograph.
+RickeyLand_MainQuest3_2 = Natasha said the event is taking place at the main plaza.
+RickeyLand_MainQuest3_3 = I head there, but I almost get lost. The place is huge.
+RickeyLand_MainQuest3_4 = After walking for a bit, I manage to get to the plaza.
+RickeyLand_MainQuest3_5 = It harbors a giant statue of, I presume, the park's founder.
+RickeyLand_MainQuest3_6 = But... something is wrong. Where is everybody ?
+RickeyLand_MainQuest3_7 = I was told there would be a lot of competition. But there is nobody.
+RickeyLand_MainQuest3_8 = Maybe the event is taking place at another location ?
+RickeyLand_MainQuest3_9 = There is only me, and this guy over there. That's not a lot.
+RickeyLand_MainQuest3_10 = He is... wearing an armor. A knight's armor. Who is he ?
+RickeyLand_MainQuest3_11 = Anyway, maybe he knows where all the people went. 
+RickeyLand_MainQuest3_12 = I may also be too early. I didn't check the time before entering.
+RickeyLand_MainQuest3_13 = Excuse me, sir. Do you happen to kno-
+RickeyLand_MainQuest3_14 = Uh ?!
+RickeyLand_MainQuest3_15 = The man suddenly turns around and approaches me.
+RickeyLand_MainQuest3_16 = Who are you ? Another contender ?
+RickeyLand_MainQuest3_17 = I've got a bad feeling about this...
+RickeyLand_MainQuest3_18 = I am here for the event. Do you perhaps kn-
+RickeyLand_MainQuest3_19 = I knew it, you are a contender. Prepare yourself !
+RickeyLand_MainQuest3_20 = The man draws his swords. Is he going to kill me ?
+RickeyLand_MainQuest3_21 = Wait... wait... why are yo-
+RickeyLand_MainQuest3_22 = Well well well... Someone came to a sword fight without a sword.
+RickeyLand_MainQuest3_23 = Oh well. Prepare to die ! I'll make you flee in terror like the others !
+RickeyLand_MainQuest3_24 = The man readies his swords. He's actually going to try to kill me !
+RickeyLand_MainQuest3_25 = I quickly scan my surroundings. But I can't find anything that could be used as a sword.
+RickeyLand_MainQuest3_26 = I have to think of something... Quickly !
+RickeyLand_MainQuest3_27 = Hold it !
+RickeyLand_MainQuest3_28 = This voice ! Grr.... Lucky you.
+RickeyLand_MainQuest3_29 = Knight of Runan ! What do you think you are doing ?
+RickeyLand_MainQuest3_30 = I've already started today's fights. Nobody will surpass me !
+RickeyLand_MainQuest3_31 = Knight ! We are not doing a fighting tournament today ! We are doing a poetry contest.
+RickeyLand_MainQuest3_32 = W- What ?! .... This explains the incompetence of my opponents.
+RickeyLand_MainQuest3_33 = So... I suppose there are only two of you left...
+RickeyLand_MainQuest3_34 = Yeah, right.... sorry....
+RickeyLand_MainQuest3_35 = Oh well... It's my fault for changing today's event on such short notice.
+RickeyLand_MainQuest3_36 = But at least we still have two contestants !
+RickeyLand_MainQuest3_37 = Let's introduce ourselves first. I'll start.
+RickeyLand_MainQuest3_38 = I am Rickey, the founder and CEO of this park. Ah, Ah !
+RickeyLand_MainQuest3_39 = I'll be judging your performances today.
+RickeyLand_MainQuest3_40 = I'm the knight of Runan, owner of a manor in the snowy province of Runan.
+RickeyLand_MainQuest3_41 = And uh... I like to fight.
+RickeyLand_MainQuest3_42 = And I'm [MC]. I... like pizza ?
+RickeyLand_MainQuest3_43 = Splendid ! Never heard of this 'pizza' thing, but why not !
+RickeyLand_MainQuest3_44 = So. Are you both ready for the poetry contest ?
+RickeyLand_MainQuest3_45 = Your goal is to write a poem about me, Rickey, CEO of RickeyLand !
+RickeyLand_MainQuest3_46 = The prettiest poem will win, and you'll get an autograph as a prize.
+RickeyLand_MainQuest3_47 = Sounds good.
+RickeyLand_MainQuest3_48 = Right. But a word of advice, if I may.
+RickeyLand_MainQuest3_49 = The knight of Runan is very skilled. He is the long time champion of the 'Rickey Annual Contest'.
+RickeyLand_MainQuest3_50 = Every year, he travels from Runan to participate in the event. He won every single time.
+RickeyLand_MainQuest3_51 = Well... Until this year, those events were fighting tournaments. He's good at it.
+RickeyLand_MainQuest3_52 = I'm the best at fighting ! I can't be surpassed ! Especially by gramps...
+RickeyLand_MainQuest3_53 = But I digress ! You both know the rules. I think it's about time to start.
+RickeyLand_MainQuest3_54 = So, are you ready ?
+RickeyLand_MainQuest3_55 = Alright ! Go !
+RickeyLand_MainQuest3_56 = The knight, apparently the champion of the event, is starting to write something.
+RickeyLand_MainQuest3_57 = I'm done.... I don't even know what to write.
+RickeyLand_MainQuest3_58 = Oh well... Here I go.
+
+RickeyLand_MainQuest3_59 = Alright ! Time !
+RickeyLand_MainQuest3_60 = Let's read your poems, shall we ?
+RickeyLand_MainQuest3_61 = Rickey picks up our poems. I'm done.
+RickeyLand_MainQuest3_62 = I just wrote down random words I thought of. There isn't a single sentence...
+RickeyLand_MainQuest3_63 = I'll start with the knight's poem. Let's see...
+RickeyLand_MainQuest3_64 = "Dear Rickey, CEO of RickeyLand."
+RickeyLand_MainQuest3_65 = "I would like to be crowned champion again, please..."
+RickeyLand_MainQuest3_66 = ... What an interesting poem !
+RickeyLand_MainQuest3_67 = But let's read [MC]'s poem, shall we ?
+RickeyLand_MainQuest3_68 = So... Hmm....
+RickeyLand_MainQuest3_69 = Rickey... Rickey.... Rickey... PANZER ?!
+RickeyLand_MainQuest3_70 = Incredible ! This poem really shows all my personality !
+RickeyLand_MainQuest3_71 = Me, and my panzers ! Such a beautiful piece of art.
+RickeyLand_MainQuest3_72 = What ? He didn't write any sentence ?! That's just cheating !
+RickeyLand_MainQuest3_73 = Silence ! I found my winner ! Ah, Ah !
+RickeyLand_MainQuest3_74 = [MC], congratulations ! You won the poetry contest !
+RickeyLand_MainQuest3_75 = Impossible ! I'll... I'll... I'll have my revenge !
+RickeyLand_MainQuest3_76 = The knight runs away. I defeated him with words.
+RickeyLand_MainQuest3_77 = Alright ! Time for your autograph.
+RickeyLand_MainQuest3_78 = Let's see... here !
+RickeyLand_MainQuest3_79 = Rickey hands me the autograph. "Rickey" is written in big letters.
+RickeyLand_MainQuest3_80 = I must say, I'm grateful. The knight may just not come back next year.
+RickeyLand_MainQuest3_81 = Oh ? He is troublesome ?
+RickeyLand_MainQuest3_82 = Well. You saw what he did to the other contestants.
+RickeyLand_MainQuest3_83 = Every year, he comes, beats the hell out of everyone, and promptly leaves.
+RickeyLand_MainQuest3_84 = It was just not fun at all. So I decided to switch to a poetry contest.
+RickeyLand_MainQuest3_85 = You know what happened next. He didn't know there was a switch...
+RickeyLand_MainQuest3_86 = Oh well. I'll just have to wait and see what happens.
+RickeyLand_MainQuest3_87 = I see. I wish you good luck.
+RickeyLand_MainQuest3_88 = I say goodbye, then leave the main plaza.
+RickeyLand_MainQuest3_89 = After walking for a bit, I'm back at the entrance.
+RickeyLand_MainQuest3_90 = Time to head back to GUARD. He'll want to see his "VIP pass".
+
+
+# ---------------------------------------------------------
+# ------------------- Marais ------------------------------
+# ---------------------------------------------------------
+
+Swamp_Intro_1 = After walking for a bit, I arrive at the dense forest's entrance.
+Swamp_Intro_2 = It seems to be a swamp. There is water everywhere. 
+Swamp_Intro_3 = Maybe I can get to the dragon's fortress by going through this swamp.
+Swamp_Intro_4 = I have to be careful not to get lost, who knows what's lurking down here.
+
+Swamp_Intro_Bis_2 = So this is the swamp Harold told me about.
+Swamp_Intro_Bis_3 = If I can get through it, I can gain access to the dragon's castle.
+Swamp_Intro_Bis_4 = I just hope there isn't a dangerous creature living here...
+
+Swamp_MainQuest1_1 = After walking for a bit, I decide to stop to dry my clothes.
+Swamp_MainQuest1_2 = Ah... Walking in the water isn't fun. Why isn't there a path I can take.
+Swamp_MainQuest1_3 = .... But at least I'm not being attacked by a monster.
+Swamp_MainQuest1_4 = ... I wonder how far is the exit...
+Swamp_MainQuest1_5 = Uh... Behind the rock.... Isn't it... a man ?
+Swamp_MainQuest1_6 = Maybe he got lost and needs help to find the exit ?
+Swamp_MainQuest1_7 = I should talk to him, I don't like being alone anyway...
+Swamp_MainQuest1_8 = Hey ! Are you alright ?
+Swamp_MainQuest1_9 = Shhh ! Quiet !
+Swamp_MainQuest1_10 = You don't want him to hear you !
+Swamp_MainQuest1_11 = Him ? Who are you talking about ?
+Swamp_MainQuest1_12 = The ogre, who else ? He eats those who get lost in the swamp.
+Swamp_MainQuest1_13 = Ah.... I'm cooked. I don't want to be here...
+Swamp_MainQuest1_14 = I should go before the ogre find me. I made already too much noise.
+Swamp_MainQuest1_15 = Get down ! He's coming...
+Swamp_MainQuest1_16 = I do as he says, and hide behind a tree.
+Swamp_MainQuest1_17 = I can hear footsteps. Is it really the ogre's ?
+Swamp_MainQuest1_18 = They are getting closer, but I can't see where he is.
+Swamp_MainQuest1_19 = Suddenly, they stop. I can't hear them anymore.
+Swamp_MainQuest1_20 = Maybe he went away ? Please let it be that...
+Swamp_MainQuest1_21 = Uh ?
+Swamp_MainQuest1_22 = I suddenly find myself before a pair of legs. Someone's here.
+Swamp_MainQuest1_23 = It's... the ogre. I'm done.
+Swamp_MainQuest1_24 = Ah ! I knew I heard a human lurking around here.
+Swamp_MainQuest1_25 = Just in time ! I was getting hungry.
+Swamp_MainQuest1_26 = Uh... can we... not do that ?
+Swamp_MainQuest1_27 = I'm... not really that tasty, you know ? I taste like cabbage...
+Swamp_MainQuest1_28 = Please let it work.... Please let it work....
+Swamp_MainQuest1_29 = Ah, cabbage ! My favorite food besides humans !
+Swamp_MainQuest1_30 = You will be a fine meal. Come here !
+Swamp_MainQuest1_31 = The ogre starts moving towards me. He's going to kill me.
+Swamp_MainQuest1_32 = I step back and start running in the other direction.
+Swamp_MainQuest1_33 = Hey ! Come back, my lunch ! I haven't even started yet.
+Swamp_MainQuest1_34 = I need to find the exit, now !
+Swamp_MainQuest1_35 = If I follow the river, I may be able to do just that. But I need to be fast.
+Swamp_MainQuest1_36 = I jump in the water and start running, hoping to find the swamp's exit.
+
+Swamp_MainQuest1_37 = I managed to put some distance between me and the ogre, but he is still behind me.
+Swamp_MainQuest1_38 = Come back ! I'm getting really hungry now !
+Swamp_MainQuest1_39 = Before me is a bridge. And I can see the exit past it.
+Swamp_MainQuest1_40 = I'm saved ! I just need to cross the bridge...
+Swamp_MainQuest1_41 = I start crossing the bridge. I don't like it...
+Swamp_MainQuest1_42 = After arriving at the middle I look behind me.
+Swamp_MainQuest1_43 = The ogre is right behind me ! I have to hurry, or I'll be his next meal !
+Swamp_MainQuest1_44 = Ah ! Afraid of heights ? Come here, I'll help you.
+Swamp_MainQuest1_45 = The ogre starts moving toward me. He is so heavy that the bridge might collapse.
+Swamp_MainQuest1_46 = I take some steps backwards. I can't fail at this point.
+Swamp_MainQuest1_47 = I finally made it to the other side. Now...
+Swamp_MainQuest1_48 = How do I deal with the ogre ? Soon he will make it too...
+Swamp_MainQuest1_49 = I can't really run anymore... I'm too tired. I have to deal with him another way.
+Swamp_MainQuest1_50 = Ah ! Resting for a bit ? Let me join you !
+Swamp_MainQuest1_51 = The ogre noticed my tiredness, I have to act fast.
+Swamp_MainQuest1_52 = Hold on !
+Swamp_MainQuest1_53 = A man screams and jumps in front of me. Who is he ?
+Swamp_MainQuest1_54 = You're not going to eat this man, fiend !
+Swamp_MainQuest1_55 = The man points his bow towards the ogre. Who starts laughing.
+Swamp_MainQuest1_56 = What ? You think you can kill me with a single arrow ?
+Swamp_MainQuest1_57 = No. But I can do that !
+Swamp_MainQuest1_58 = The man shoots an arrow directly to the ogre's knee, making him stager.
+Swamp_MainQuest1_59 = Then, he jumps on the ogre, and push him over the bridge.
+Swamp_MainQuest1_60 = The ogre falls, and dies on a rock. He's no longer a menace.
+Swamp_MainQuest1_61 = The man turns around and gives me a thumbs up.
+Swamp_MainQuest1_62 = Ah ! I see I made it in time.
+Swamp_MainQuest1_63 = I was scouting the swamp, when I saw you being pursued by this fiend.
+Swamp_MainQuest1_64 = Thank you so much. He almost had me !
+Swamp_MainQuest1_65 = Ah, Ah ! Don't sweat it ! It's only natural.
+Swamp_MainQuest1_66 = I came to Vlatyr from the province of Forestyr. I heard there were big games here.
+Swamp_MainQuest1_67 = And I certainly wasn't disappointed. Hunting ogres is way more thrilling than deer.
+Swamp_MainQuest1_68 = But what about you, dear fellow ? What brings you here.
+Swamp_MainQuest1_69 = I'm trying to get to the Ember Fortress. I was sent on a mission by a local.
+Swamp_MainQuest1_70 = Oh, the dragon's ? I see. Truly the biggest game around here. But, you know, quite dangerous.
+Swamp_MainQuest1_71 = If you want to get to the fortress, continue forward. After exiting the swamp, you'll get to Swamtyr.
+Swamp_MainQuest1_72 = Small village, not much to see. But you'll be able to take a road straight to the fortress.
+Swamp_MainQuest1_73 = I see, thank you sir.
+Swamp_MainQuest1_74 = You're welcome ! This was a piece of cake.
+Swamp_MainQuest1_75 = The man does a backflip. Is he trying to impress me ?
+Swamp_MainQuest1_76 = He nails it, but the bridge is now unstable.
+Swamp_MainQuest1_77 = Uh ? Oh, no !
+Swamp_MainQuest1_78 = He falls down. I can't even see where he fell. Did he die ?
+Swamp_MainQuest1_79 = Oh... well... at least I know where to go now.
+Swamp_MainQuest1_80 = I turn around, and start exiting the swamp.
+
+Swamp_RescueQuest0_1 = Who goes there ? Oh, it's you.
+Swamp_RescueQuest0_2 = What are you doing here ? One chase with the ogre wasn't enough for you ?
+Swamp_RescueQuest0_3 = I killed the ogre, the swamp is safe now.
+Swamp_RescueQuest0_4 = Is that so ? Oh, that's great for my foraging.
+Swamp_RescueQuest0_5 = I came to tell you that your wife is worried about you.
+Swamp_RescueQuest0_6 = You should head back as soon as you can. 
+Swamp_RescueQuest0_7 = Ann... right. I should go back to my ol' wife.
+Swamp_RescueQuest0_8 = Thank you for letting me know. Do come visit us sometime, youngling.
+
+# ---------------------------------------------------------
+# ------------------ Swamtyr ------------------------------
+# ---------------------------------------------------------
+
+Swamtyr_Arrival_1 = After walking for a bit, I finally arrive at Swamtyr.
+Swamtyr_Arrival_2 = So... Apparently, I can use a road to get directly to the dragon's fortress.
+Swamtyr_Arrival_3 = But it wouldn't hurt to try to talk to the locals.
+
+Swamtyr_Car_1 = This car was claimed by Lord Ember, it seems.
+
+Swamtyr_OldWoman_RescueQuestStart_1 = Oh, hello there, young one. Did you come from the swamp ?
+Swamtyr_OldWoman_RescueQuestStart_2 = Yes. I went through it just now.
+Swamtyr_OldWoman_RescueQuestStart_3 = ... Actually, may I ask your assistance ?
+Swamtyr_OldWoman_RescueQuestStart_4 = My husband left the house this morning in search of mushrooms.
+Swamtyr_OldWoman_RescueQuestStart_5 = He went to the swamp to look for some, but he hasn't come back yet.
+Swamtyr_OldWoman_RescueQuestStart_6 = Did you happen to meet him in the swamp ? I'm getting worried...
+Swamtyr_OldWoman_RescueQuestStart_7 = Ah... I did see someone like that, hiding in the swamp. His clothes were similar to yours.
+Swamtyr_OldWoman_RescueQuestStart_8 = Yes, that's him ! Is he doing okay ?
+Swamtyr_OldWoman_RescueQuestStart_9 = I think so. He was hiding from the ogre, but I took care of the monster somehow.
+Swamtyr_OldWoman_RescueQuestStart_10 = I'll go take a look. With luck, he stayed hidden in the same place.
+Swamtyr_OldWoman_RescueQuestStart_11 = Thank you so much, young one.
+
+Swamtyr_OldWoman_RescueQuest0_1 = My husband loves mushrooms. He puts them everywhere.
+Swamtyr_OldWoman_RescueQuest0_2 = However, mushrooms only grow in dangerous places around here.
+Swamtyr_OldWoman_RescueQuest0_3 = I wish he just bought them from the market...
+
+Swamtyr_OldWoman_RescueQuest1_1 = Thank you so much, young one !
+Swamtyr_OldWoman_RescueQuest1_2 = I'm sorry though, I don't have anything to give you in reward.
+Swamtyr_OldWoman_RescueQuest1_3 = Don't worry about that, it was only natural.
+Swamtyr_OldWoman_RescueQuest1_4 = I see. May Kalibu bless your soul, young one.
+
+Swamtyr_OldWoman_Default_1 = If you ever feel hungry, feel free to come. We'll make you a bowl of mushroom soup.
+
+Swamtyr_OldMan_RescueQuest1_1 = Thank you for your help, youngster.
+Swamtyr_OldMan_RescueQuest1_2 = You should talk to my wife. She wants to thank you properly.
+
+Swamtyr_OldMan_Default_1 = Mushrooms are really the best. Especially the ones from the swamp.
+Swamtyr_OldMan_Default_2 = Ol' wife says it's dangerous, but I say the reward overcome the risk.
+
+# ---------------------------------------------------------
+# ---------------- Montagnes ------------------------------
+# ---------------------------------------------------------
+
+Mountains_Sign_Default_1 = "House of the great wizard of Vlatyr"
+Mountains_Sign_Default_2 = Where is the house ?
+
+Mountains_Car_1 = It seems no car can escape Lord Ember's wrath. I don't even know how it got here.
+
+Mountains_KeysQuest0_1 = "House of the great wizard of Vlatyr" is written on the sign.
+Mountains_KeysQuest0_2 = But, something is wrong. Where is the house ?
+Mountains_KeysQuest0_3 = GUARD told me the wizard lived somewhere here, but I can't find him...
+Mountains_KeysQuest0_4 = I guess the sign is just misplaced ? Maybe he lives elsewhere.
+Mountains_KeysQuest0_5 = Well... where are in a mountainous environment. He could be anywhere.
+Mountains_KeysQuest0_6 = Hold on, hold on, hold on !
+Mountains_KeysQuest0_7 = A man in purple robes appears out of nowhere and starts yelling at me.
+Mountains_KeysQuest0_8 = Who are you ?! Are you the wizard ?
+Mountains_KeysQuest0_9 = You dare insult my sign, insolent ! I shall punish you for that !
+Mountains_KeysQuest0_10 = I am the great wizard of Vlatyr, one of the greatest in the country !
+Mountains_KeysQuest0_11 = And this, is my house ! The sign is right !
+Mountains_KeysQuest0_12 = He points at the grass. There is no house there...
+Mountains_KeysQuest0_13 = I'm sorry... I'm not sure I understand....
+Mountains_KeysQuest0_14 = WHAT ?! Can you not see ? Can you not see my magnificent home ?
+Mountains_KeysQuest0_15 = I live here ! It's the greatest house ever !
+Mountains_KeysQuest0_16 = Is he.... insane, perhaps ?
+Mountains_KeysQuest0_17 = Hey ! Are you listening ?
+Mountains_KeysQuest0_18 = Y- Yes ! I am !
+Mountains_KeysQuest0_19 = So, apologize about my sign and my beautiful house.
+Mountains_KeysQuest0_20 = Uhm... sorry ?
+Mountains_KeysQuest0_21 = Great ! Now we're friends !
+Mountains_KeysQuest0_22 = Uh ?
+Mountains_KeysQuest0_23 = I... should just ask him about the keys.
+Mountains_KeysQuest0_24 = Yeah... uhm... May I ask you something ?
+Mountains_KeysQuest0_25 = Of course ?! What do you want ? A magical fox ?!
+Mountains_KeysQuest0_26 = N- No ! I wanted to ask you about the Ember fortress.
+Mountains_KeysQuest0_27 = I heard the keys were stolen, and I need them in order to enter the fortress.
+Mountains_KeysQuest0_28 = Do you perhaps know where the keys are ?
+Mountains_KeysQuest0_29 = THE KEYS ?! Don't disrespect Talia !
+Mountains_KeysQuest0_30 = Talia ?
+Mountains_KeysQuest0_31 = I saved her from this monstrous guard at the fortress.
+Mountains_KeysQuest0_32 = I love her, we just got married !
+Mountains_KeysQuest0_33 = Uh ? Uh ?
+Mountains_KeysQuest0_34 = So... you married keys ?
+Mountains_KeysQuest0_35 = Don't you dare compare her to other keys !
+Mountains_KeysQuest0_36 = Maybe she looks like one, but she's special !
+Mountains_KeysQuest0_37 = There is a dragon engraved on her !
+Mountains_KeysQuest0_38 = So it's just a normal key.
+Mountains_KeysQuest0_39 = I get it ! You want to kidnap Talia ! You want to steal my wife !
+Mountains_KeysQuest0_40 = I won't let you ! I'll kill you !
+Mountains_KeysQuest0_41 = The wizard is starting to cast spells. I may be in trouble.
+
+Mountains_KeysQuest0_42 = Impossible ! How did you evade my magic attacks ?
+Mountains_KeysQuest0_43 = Quick ! I have to retreat for now ! To my house !
+Mountains_KeysQuest0_44 = The wizard runs away.
+Mountains_KeysQuest0_45 = While running, he drops the fortress's keys.
+Mountains_KeysQuest0_46 = Well... I guess I have the keys now.
+Mountains_KeysQuest0_47 = Time to head back to GUARD. He'll want to get his keys back.
+
+# ---------------------------------------------------------
+# --------------- Forteresse ------------------------------
+# ---------------------------------------------------------
+
+Fortress_Arrival_1 = After walking for a bit, I finally arrive at the fortress.
+Fortress_Arrival_2 = Spooky....
+Fortress_Arrival_3 = So, the dragon lives here ? A fortress just for himself, uh ?
+Fortress_Arrival_4 = Time to enter. I don't know how I will deal with him though...
+
+Fortress_Gate_MainQuest5_1 = I don't have to go back there.
+
+Fortress_Gate_GUARD_MainQuest2_1 = There is a man on the balcony. He seems to be watching the entrance.
+Fortress_Gate_GUARD_MainQuest2_2 = Maybe he knows where the dragon is. I should try talking to him.
+Fortress_Gate_GUARD_MainQuest2_3 = Excuse me, sir. I would like to enter this fortress.
+Fortress_Gate_GUARD_MainQuest2_4 = Uh ? You want to enter the fortress ? Sure, why not...
+Fortress_Gate_GUARD_MainQuest2_5 = It was this easy to gain access ?
+Fortress_Gate_GUARD_MainQuest2_6 = ... Hold on a second ! I can't just let you get in without checking your intents !
+Fortress_Gate_GUARD_MainQuest2_7 = Or not... At least I tried.
+Fortress_Gate_GUARD_MainQuest2_8 = Why are you seeking to enter the fortress ? Uh ? Uh ?
+Fortress_Gate_GUARD_MainQuest2_9 = Let me guess. You want to kill our benevolent lord Ember, and steal the treasure ?
+Fortress_Gate_GUARD_MainQuest2_10 = You want to steal it all for yourself, and become rich ?
+Fortress_Gate_GUARD_MainQuest2_11 = You want to stop our magnificent lord from burning cars ?
+Fortress_Gate_GUARD_MainQuest2_12 = You... wait, that actually sounded like a good thing to do...
+Fortress_Gate_GUARD_MainQuest2_13 = He... nevermind. Let's just pretend that I don't want to kill the dragon.
+Fortress_Gate_GUARD_MainQuest2_14 = Oh, no. I don't want to kill our lord, I want to pay tribute to him.
+Fortress_Gate_GUARD_MainQuest2_15 = I brought... gold and treasures. I hope that he will like it.
+Fortress_Gate_GUARD_MainQuest2_16 = Oh... That's a nice tribute to our lord.
+Fortress_Gate_GUARD_MainQuest2_17 = I'm sure he will appreciate all this... wait...
+Fortress_Gate_GUARD_MainQuest2_18 = You don't seem to be carrying much... Are you perhaps... lying ?
+Fortress_Gate_GUARD_MainQuest2_19 = Oh... no. I just don't have much gold to begin with.
+Fortress_Gate_GUARD_MainQuest2_20 = I'm just a poor farmer, paying tribute for my crops.
+Fortress_Gate_GUARD_MainQuest2_21 = Uh.... Lie or no lie ? That is the question....
+Fortress_Gate_GUARD_MainQuest2_22 = Dammit ! I'm not going to lose my job again because of a mistake like that.
+Fortress_Gate_GUARD_MainQuest2_23 = Okay ! I know what to do ! I know how to be sure of your intentions.
+Fortress_Gate_GUARD_MainQuest2_24 = Answer  me ! Are you going to kill lord ember ?
+Fortress_Gate_GUARD_MainQuest2_25 = Uh... no ?
+Fortress_Gate_GUARD_MainQuest2_26 = Uhm..... Uhm.... is it the truth ? 
+Fortress_Gate_GUARD_MainQuest2_27 = I don't know... I don't know... I don't want to lose my job.
+Fortress_Gate_GUARD_MainQuest2_28 = I swear, I'm not going to kill him.
+Fortress_Gate_GUARD_MainQuest2_29 = .... I see.... Alright... I trust you.
+Fortress_Gate_GUARD_MainQuest2_30 = But ! I'm very sorry. I can't just let you walk in.
+Fortress_Gate_GUARD_MainQuest2_31 = You see, lord Ember is currently very busy. So I can't let you disturb him.
+Fortress_Gate_GUARD_MainQuest2_32 = If you really want to disturb him, you'll need a VIP pass.
+Fortress_Gate_GUARD_MainQuest2_33 = A VIP pass, seriously ? There is such thing ?
+Fortress_Gate_GUARD_MainQuest2_34 = If you want to acquire one, you'll need to go to RickeyLand.
+Fortress_Gate_GUARD_MainQuest2_35 = It's the amusement park that is next to the swamp. It should be open by now.
+Fortress_Gate_GUARD_MainQuest2_36 = Due to a partnership, VIP passes are distributed everyday, at noon.
+Fortress_Gate_GUARD_MainQuest2_37 = So head over there, get a pass, and come back here. I'll be waiting for your return.
+Fortress_Gate_GUARD_MainQuest2_38 = Oh... and call me GUARD, will you ? It's my codename from back in the days.
+
+Fortress_Gate_GUARD_Default = Do you require assistance, peasant ?
+
+Fortress_Gate_GUARD_MainQuest3_1 = Head over to RickeyLand, and get a VIP pass.
+Fortress_Gate_GUARD_MainQuest3_2 = You won't be able to enter until you get one.
+
+Fortress_Gate_GUARD_MainQuest3_3 = You... you got the autograph ?!
+Fortress_Gate_GUARD_MainQuest3_4 = Damn it ! I had lost all hopes to ever get it.
+Fortress_Gate_GUARD_MainQuest3_5 = It's not easy when your opponent has swords...
+Fortress_Gate_GUARD_MainQuest3_6 = Can I enter the fortress now ? I got your autograph.
+Fortress_Gate_GUARD_MainQuest3_7 = .... Alright. This is embarrassing...
+Fortress_Gate_GUARD_MainQuest3_8 = I... lost the key to the fortress...
+Fortress_Gate_GUARD_MainQuest3_9 = And the door is locked. So I can't even exit.
+Fortress_Gate_GUARD_MainQuest3_10 = Where did you lose it ?
+Fortress_Gate_GUARD_MainQuest3_11 = Well, you see. There is a self proclaimed wizard living around here.
+Fortress_Gate_GUARD_MainQuest3_12 = He mostly stays in his house, but not today apparently.
+Fortress_Gate_GUARD_MainQuest3_13 = He came, and stole the keys using his magic.
+Fortress_Gate_GUARD_MainQuest3_14 = Don't ask me why. I don't know why anyone would do that.
+Fortress_Gate_GUARD_MainQuest3_15 = ...Alright. I'll find the keys.
+Fortress_Gate_GUARD_MainQuest3_16 = You'll do that ? Thanks !
+
+Fortress_Gate_GUARD_MainQuest4_1 = You need to find the wizard who stole the fortress's keys.
+Fortress_Gate_GUARD_MainQuest4_2 = He lives in the mountains not far from here.
+
+Fortress_Gate_GUARD_OtherJob_1 = I first started my career as a bodyguard for a politician.
+Fortress_Gate_GUARD_OtherJob_2 = I had to follow him everywhere in the capitol, Aajotyr.
+Fortress_Gate_GUARD_OtherJob_3 = But one day, I was fooled by a cleverly disguised assassin.
+Fortress_Gate_GUARD_OtherJob_4 = Long story short, the politician got killed, and I lost my job.
+Fortress_Gate_GUARD_OtherJob_5 = I searched for a new job for months. Nobody wanted a failed bodyguard.
+Fortress_Gate_GUARD_OtherJob_6 = But then, lord Ember hired me ! He saw potential in me.
+
+Fortress_Gate_GUARD_Assassin_1 = You know, the assassination happened a few months back.
+Fortress_Gate_GUARD_Assassin_2 = Nobody knows who the assassin is. He disappeared right after the incident.
+Fortress_Gate_GUARD_Assassin_3 = But let me tell you, this is just too fishy !
+Fortress_Gate_GUARD_Assassin_4 = The politician in question was investigating a strange cult. Something about summoning ?
+Fortress_Gate_GUARD_Assassin_5 = He kept everything to himself. He never told me anything about his findings.
+Fortress_Gate_GUARD_Assassin_6 = So, when he died, so did his findings on the cult.
+Fortress_Gate_GUARD_Assassin_7 = I'll bet even my revolver that the cult had something to do with this.
+Fortress_Gate_GUARD_Assassin_8 = I'll get to the bottom of this, I'm telling you !
+Fortress_Gate_GUARD_Assassin_9 = I... just need some money beforehand... I'm a little short right now.
+
+Fortress_Gate_GUARD_Ember_1 = Lord Ember is the generous lord of this fortress.
+Fortress_Gate_GUARD_Ember_2 = I was lucky to be selected as it's guard. This is an honor.
+Fortress_Gate_GUARD_Ember_3 = Some say lord Ember is a monster, a tyrant. But let me tell you.
+Fortress_Gate_GUARD_Ember_4 = Who gave me a chance when I had troubles ? Lord Ember.
+Fortress_Gate_GUARD_Ember_5 = Who shunned me after failing to prevent an assassination ? Not him.
+Fortress_Gate_GUARD_Ember_6 = Maybe he likes to burn cars, and houses, and crops, and peoples.
+Fortress_Gate_GUARD_Ember_7 = But deep down, he's very nice. I'm sure of it.
+Fortress_Gate_GUARD_Ember_8 = At least, I hope so... I have yet to get last month's salary.
+
+Fortress_MainQuest5_1 = Ah, you found the keys ! Good job !
+Fortress_MainQuest5_2 = Yes, I defeated the wizard who stole them.
+Fortress_MainQuest5_3 = Good. At least that's one less source of worries in the region.
+Fortress_MainQuest5_4 = He is known for doing illogical things all over the region.
+Fortress_MainQuest5_5 = Things like stealing doors, or turning cars into rabbits.
+Fortress_MainQuest5_6 = There doesn't seem to be a deep meaning to these acts. It's very annoying...
+Fortress_MainQuest5_7 = I see... Well, he won't be troubling people for a while, I think.
+Fortress_MainQuest5_8 = Right. But hey, you can enter the fortress now.
+Fortress_MainQuest5_9 = Go pay your tribute to our lord. Just remember to give me back the keys after leaving.
+Fortress_MainQuest5_10 = Of course.
+Fortress_MainQuest5_11 = Finally. After all this time, I can finally enter the fortress.
+Fortress_MainQuest5_12 = I open the gate using the keys. It's the end.
+Fortress_MainQuest5_13 = Hold t !
+Fortress_MainQuest5_14 = I hear a familiar voice. It's the samurai from before !
+Fortress_MainQuest5_15 = I cameth to killeth the lacking valor dragon, Lord Ember !
+Fortress_MainQuest5_16 = I believeth I toldeth thee I would beest the one to doth t.
+Fortress_MainQuest5_17 = Hold on ! You can't enter without being authorized !
+Fortress_MainQuest5_18 = A guard ? Bootless ! I'll killeth the dragon concluded, be it !
+Fortress_MainQuest5_19 = Over my dead body, you fiend !
+Fortress_MainQuest5_20 = Katsumoto shoves me to the side, and enters the fortress.
+Fortress_MainQuest5_21 = GUARD follows suits using the balcony's door.
+Fortress_MainQuest5_22 = I don't like where this is going.
+Fortress_MainQuest5_23 = I mean, maybe it would be easier to let Katsumoto kill the dragon for me.
+Fortress_MainQuest5_24 = But he might end up stealing whatever Harold told me to get.
+Fortress_MainQuest5_25 = So, I have to catch up with him.   
+Fortress_MainQuest5_26 = I enter the fortress, time to end this.
+Fortress_MainQuest5_27 = After walking for a bit, I find GUARD cowering in a corner.
+Fortress_MainQuest5_28 = GUARD ?! Are you hurt ?
+Fortress_MainQuest5_29 = No... It's just... I'm lost...
+Fortress_MainQuest5_30 = L- Lost ?! Don't you know the place ? You work here !
+Fortress_MainQuest5_31 = Well... The fortress is a maze. So many doors, and only one of them can get you to Lord Ember.
+Fortress_MainQuest5_32 = And I can't remember which one...
+Fortress_MainQuest5_33 = This could be a problem. I might end up getting lost too if I'm not careful.
+Fortress_MainQuest5_34 = I'll find Lord Ember, don't worry.
+Fortress_MainQuest5_35 = Really ? Thanks...
+Fortress_MainQuest5_36 = Well, time to go.
+Fortress_MainQuest5_37 = I start walking, unsure where to go.
+
+Fortress_MainQuest5_38 = I finally arrive at Lord Ember's room.
+Fortress_MainQuest5_39 = It is gigantic, and full of gold.
+Fortress_MainQuest5_40 = Strange... I feel like I've seen it before...
+Fortress_MainQuest5_41 = No matter ! I should focus on findin-
+Fortress_MainQuest5_42 = -Katsumoto... who is currently playing with a flute.
+Fortress_MainQuest5_43 = The dragon is next to him. He seems to be in a daze.
+Fortress_MainQuest5_44 = What is Katsumoto doing ?
+Fortress_MainQuest5_45 = Heareth this quite quaint melody, most wondrous dragon.
+Fortress_MainQuest5_46 = Alloweth this lullaby putteth thee to catch but a wink with ease.
+Fortress_MainQuest5_47 = Catch but a wink with ease, as t shalt beest thy most wondrous nap ev'r.
+Fortress_MainQuest5_48 = Is he charming the dragon with his flute ?
+Fortress_MainQuest5_49 = It seems to be working at least.
+Fortress_MainQuest5_50 = Uh ?
+Fortress_MainQuest5_51 = Katsumoto played a wrong note. The dragon starts moving again.
+Fortress_MainQuest5_52 = Grr ! How dare you try to charm me with your flute !
+Fortress_MainQuest5_53 = I'll roast you alive !
+Fortress_MainQuest5_54 = The dragon's fire breath embraces Katsumoto.
+Fortress_MainQuest5_55 = The samurai falls to the ground, fuming from the fire.
+Fortress_MainQuest5_56 = Lord Ember turns towards me. I'm in trouble.
+Fortress_MainQuest5_57 = Grr ! This feeble human thought he could kill me with a cheap trick !
+Fortress_MainQuest5_58 = What about you, mortal ? Are you too here to kill me ?
+Fortress_MainQuest5_59 = I... I was sent by Harold, a local, to stop your crime spree !
+Fortress_MainQuest5_60 = Harold ?! This idiot sent you ? If he wants his belongings so badly, he should come face me !
+Fortress_MainQuest5_61 = His belongings ? I'm not sure I understand...
+Fortress_MainQuest5_62 = He never told you, what he's really after ? Hilarious !
+Fortress_MainQuest5_63 = I love to burn cars, it's a cool prank !
+Fortress_MainQuest5_64 = But with Harold, I decided to do something different. I stole his car's keys !
+Fortress_MainQuest5_65 = So now, the only way for him to use his car again is to come here and get them !
+Fortress_MainQuest5_66 = But it would seem he ended up finding someone else to send in his stead. What a loser !
+Fortress_MainQuest5_67 = Harold.... I'm really doing this for keys ?!
+Fortress_MainQuest5_68 = I must say, I'm disappointed in him. I wanted my revenge for last time.
+Fortress_MainQuest5_69 = But, I suppose you'll be a fine consolation prize.
+Fortress_MainQuest5_70 = Time to die, mortal ! Any last words ?
+Fortress_MainQuest5_71 = Uhm.... Let's not do this ?
+Fortress_MainQuest5_72 = Grr ! No.
+Fortress_MainQuest5_73 = I have to find something, quick ! Or I'll end up just like in my dream !
+Fortress_MainQuest5_74 = I scan the room. There must be something, anything.
+Fortress_MainQuest5_75 = My gaze stops on Katsumoto's flute.
+Fortress_MainQuest5_76 = Maybe I can charm the dragon again, then kill him.
+Fortress_MainQuest5_77 = I pick up the flute, and prepare myself.
+Fortress_MainQuest5_78 = The flute ?! Didn't you see what happened with the other one ?
+Fortress_MainQuest5_79 = It won't save you ! You'll only delay your inevitable death.
+Fortress_MainQuest5_80 = I'll try anyway ! Please, listen to  my soft melody.
+Fortress_MainQuest5_81 = I start playing the flute, hoping to be successful.
+
+Fortress_MainQuest5_82 = I did it. I charmed the dragon !
+Fortress_MainQuest5_83 = I just have to find a way to dispose of him...
+Fortress_MainQuest5_84 = Oh ! I know !
+Fortress_MainQuest5_85 = And now, Lord Ember. Please fly into a volcano.
+Fortress_MainQuest5_86 = Mhm... Yes... Of course....
+Fortress_MainQuest5_87 = The dragon flies off. Where, you may ask ? I don't know...
+Fortress_MainQuest5_88 = But at least, he isn't here anymore. He should die in a volcano.
+Fortress_MainQuest5_89 = Well, time to find Harold's "treasure"...
+Fortress_MainQuest5_90 = I start searching. The place is full of gold, but I can't see keys...
+Fortress_MainQuest5_91 = After a while, I finally find them, hidden behind a gold bar.
+Fortress_MainQuest5_92 = Good. Time to head back. Harold will be waiting for me.
+Fortress_MainQuest5_93 = Still, I can't believe he tricked me like that.
+Fortress_MainQuest5_94 = I mean... I understand why he would be reticent to telling me the truth, but still...
+Fortress_MainQuest5_95 = I head outside and pass the main gate.
+Fortress_MainQuest5_96 = I can't find GUARD anywhere. I guess he ran off while I was fighting the dragon.
+Fortress_MainQuest5_97 = Oh well, I guess I'll take the fortress keys as a souvenir.
+Fortress_MainQuest5_98 = Time to head back to Harold. 

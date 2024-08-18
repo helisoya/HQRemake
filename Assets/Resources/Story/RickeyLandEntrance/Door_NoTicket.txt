@@ -1,0 +1,3 @@
+dialog(Natasha;Natasha;false;RickeyLandEntrance_Door_NoTicket_1)
+
+load(RickeyLandEntrance/Interaction)

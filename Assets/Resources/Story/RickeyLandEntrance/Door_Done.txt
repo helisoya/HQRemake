@@ -1,0 +1,3 @@
+dialog(narrator;_;false;RickeyLandEntrance_Door_Done_1)
+
+load(RickeyLandEntrance/Interaction)

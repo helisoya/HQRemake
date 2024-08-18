@@ -1,0 +1,4 @@
+dialog([MC];_;false;Mountains_Sign_Default_1)
+dialog([MC];_;false;Mountains_Sign_Default_2)
+
+load(Mountains/Arrive)

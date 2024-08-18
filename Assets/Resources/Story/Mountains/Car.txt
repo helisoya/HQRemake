@@ -1,0 +1,3 @@
+dialog(narrator;_;false;Mountains_Car_1)
+
+load(Mountains/Arrive)

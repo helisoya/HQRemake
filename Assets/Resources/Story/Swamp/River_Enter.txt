@@ -1,0 +1,12 @@
+fadeBg(1;true)
+
+playMusic(Exploration_1)
+removeAllCharacters()
+setBackground(SwampRiver)
+
+fadeBg(0;false)
+
+if(mainQuest = 1) Swamp/River_MainQuest1
+if(rescueQuest = 0) Swamp/River_RescueQuest0
+
+load(Swamp/River)

@@ -1,0 +1,8 @@
+dialog(Harold;Harold;false;ChezHarold_Harold_MainQuest0_1)
+dialog(Harold;Harold;false;ChezHarold_Harold_MainQuest0_2)
+dialog(Harold;Harold;false;ChezHarold_Harold_MainQuest0_3)
+dialog(Harold;Harold;false;ChezHarold_Harold_MainQuest0_4)
+dialog(Harold;Harold;false;ChezHarold_Harold_MainQuest0_5)
+
+variable(talkedAboutSwampToHarold;1)
+load(ChezHarold/Harold_Default)

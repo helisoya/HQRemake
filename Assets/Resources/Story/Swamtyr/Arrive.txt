@@ -1,0 +1,13 @@
+playMusic(Exploration_2)
+removeAllCharacters()
+setBackground(Swamtyr)
+
+addCharacter(OldWoman;false)
+setCharacterPosition(OldWoman;Civilian1)
+setCharacterRotation(OldWoman;Civilian1)
+
+if(rescueQuest > 0) Swamtyr/OldManInteraction 
+
+
+load(Swamtyr/Interaction)
+

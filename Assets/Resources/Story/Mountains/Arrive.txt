@@ -1,0 +1,9 @@
+playMusic(Exploration_2)
+removeAllCharacters()
+setBackground(Mountains)
+
+setInteractionChapter(Sign;Mountains/Sign_Check)
+setInteractionChapter(Car;Mountains/Car)
+setInteractionChapter(Exit;MAP-Vlatyr-Mountains)
+
+interact

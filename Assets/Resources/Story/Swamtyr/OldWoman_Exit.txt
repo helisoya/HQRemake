@@ -1,0 +1,8 @@
+setCharacterAlpha(OldWoman;0;true)
+
+setCharacterPosition(OldWoman;Civilian1)
+setCharacterRotation(OldWoman;Civilian1)
+
+setCharacterAlpha(OldWoman;1;false)
+
+load(Swamtyr/Interaction)

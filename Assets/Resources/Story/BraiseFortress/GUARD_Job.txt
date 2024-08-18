@@ -1,0 +1,10 @@
+dialog(GUARD;GUARD;false;Fortress_Gate_GUARD_OtherJob_1)
+dialog(GUARD;GUARD;false;Fortress_Gate_GUARD_OtherJob_2)
+dialog(GUARD;GUARD;false;Fortress_Gate_GUARD_OtherJob_3)
+dialog(GUARD;GUARD;false;Fortress_Gate_GUARD_OtherJob_4)
+dialog(GUARD;GUARD;false;Fortress_Gate_GUARD_OtherJob_5)
+dialog(GUARD;GUARD;false;Fortress_Gate_GUARD_OtherJob_6)
+
+variable(GUARDTalkedJob;1)
+
+load(BraiseFortress/GUARD)

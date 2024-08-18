@@ -1,0 +1,7 @@
+dialog(Harold;Harold;false;ChezHarold_Harold_Default)
+
+choice Choice_Chat
+	Choice_Ideas ChezHarold/Harold_MainQuest_Check
+	Choice_AboutRegion ChezHarold/Harold_Region
+	Choice_AboutYou ChezHarold/Harold_You
+	Choice_Nothing ChezHarold/Harold_Exit

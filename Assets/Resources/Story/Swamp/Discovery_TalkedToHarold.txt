@@ -1,0 +1,7 @@
+dialog([MC];_;false;Swamp_Intro_Bis_2)
+dialog([MC];_;false;Swamp_Intro_Bis_3)
+dialog([MC];_;false;Swamp_Intro_Bis_4)
+
+variable(mainQuest;1)
+variable(discoveredSwamp;1)
+load(Swamp/Interaction)

@@ -1,0 +1,8 @@
+dialog(GUARD;GUARD;false;Fortress_Gate_GUARD_Default)
+
+choice Choice_Chat
+	Choice_Ideas BraiseFortress/GUARD_MainQuest_Check
+	Choice_AboutJob BraiseFortress/GUARD_Job
+	Choice_AboutAssassin BraiseFortress/GUARD_Assassin
+	Choice_AboutEmber BraiseFortress/GUARD_Ember
+	Choice_Nothing BraiseFortress/GUARD_Exit

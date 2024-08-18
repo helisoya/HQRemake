@@ -1,0 +1,837 @@
+# -----------------------------------------------------------
+# --------------- Characters --------------------------------
+# -----------------------------------------------------------
+
+
+Char_Harold = Harold
+Char_Rickey = Rickey
+Char_Boyardee = Boyardee
+Char_Runcan = Chevalier de Runan
+Char_Waldo = Waldo
+Char_??? = ???
+Char_Dragon = Dragon
+Char_Katsumoto = Katsumoto
+Char_Touriste = Touriste
+Char_Foule = Foule
+Char_Natasha = Natasha
+Char_Ogre = Ogre
+Char_Archer = Archer
+Char_Mage = Mage
+Char_GUARD = GARDE
+Char_Braise = Braise
+Char_OldMan = Vieillard
+Char_OlWoman = Vieillarde
+
+# -----------------------------------------------------------
+# --------------- Choices -----------------------------------
+# -----------------------------------------------------------
+
+Choice_Generic = Que faire ?
+Choice_Chat = De quoi parler ?
+Choice_Road = Quel chemin prendre ?
+
+Choice_Map = Carte
+Choice_Harold = Parler à Harold
+Choice_CheckArea = Vérifier les alentours
+Choice_Nothing = Rien (Partir)
+Choice_MoveOut = Continuer
+
+Choice_Ideas = Des idées ?
+Choice_AboutRegion = A propos de la région
+Choice_AboutYou = A propos de vous
+Choice_AboutJob = A propos de votre travail
+Choice_AboutEmber = A propos du dragon
+Choice_AboutAssassin = A propos de l'assassin
+Choice_AboutPark = A propos du parc
+
+Choice_Left = Aller à Gauche
+Choice_Right = Aller à Droite
+
+Choice_Accept = Accepter
+Choice_Refuse = Refuser
+
+Choice_RunAway = Fuir
+
+
+
+# ---------------------------------------------------------
+# ------------------- Intro -------------------------------
+# ---------------------------------------------------------
+
+Test_1 = This is a test
+Test_2 = This is another test
+Test_3 = Hello, [MC] !
+Test_4 = Savez vous que je suis un danseur d'exception ?
+Test_5 = Attendez ! Revenez !
+
+
+# ---------------------------------------------------------
+# ------------------- Intro -------------------------------
+# ---------------------------------------------------------
+
+
+Intro_1 = ...................
+Intro_2 = Je... Ou suis-je ?
+Intro_3 = On dirait... Un château...
+Intro_4 = Comment suis-je arrivé ici ?
+Intro_5 = Je n'ai pas souvenir de venir ici. Quelqu'un m'a amené ici ?
+Intro_6 = Je devrais explorer un peu.
+Intro_7 = Qui sait ce que je vais trouver ici ?
+Intro_8 = Une étrange porte attire mon attention.
+Intro_9 = Je l'entrouvre, et remarque qu'elle mène à une grande salle.
+Intro_10 = Ah ? On dirait une salle au trésor.
+Intro_11 = Je vais peut-être y trouver de l'or !
+Intro_12 = J'entre donc dans la salle rapidement.
+Intro_13 = La salle est immense, il y a une montagne d'or à l'étage.
+Intro_14 = Je suis riche !
+Intro_15 = Vite ! Il faut prendre le maximum d'or avant de partir !
+Intro_16 = Grr !
+Intro_17 = J’entends un puissant rugissement...
+Intro_18 = Je me tourne pour faire face à un terrifiant dragon.
+Intro_19 = Grr ! Tu oses profaner mon château, mortel ?
+Intro_20 = Je vais te rôtir pour ton insolence ! Grr !
+Intro_21 = NOOOOOOOONNNN !
+Intro_22 = Par pitié ! Trouvons un autre arrangement !
+Intro_23 = Silence ! Je vais te rôtir et te manger tout cru !
+Intro_24 = Le dragon se prépare à cracher du feu.
+Intro_25 = Je dois trouver un moyen de m'échapper !
+Intro_26 = J'essaie de m'enfuir par la porte.
+Intro_27 = MUAH AH AH AH ! Tu penses pouvoir t'échapper ?
+Intro_28 = Subit ma puissance, mortel !
+Intro_29 = Le dragon me crache du feu dessus.
+Intro_30 = Je suis incinéré par son souffle ardent.
+Intro_31 = FIN
+
+
+
+# ---------------------------------------------------------
+# ------------- Chez Harold -------------------------------
+# ---------------------------------------------------------
+
+ChezHarold_Intro_1 = .....
+ChezHarold_Intro_2 = .....
+ChezHarold_Intro_3 = J'ouvre les yeux, je suis dans une chambre inconnue.
+ChezHarold_Intro_4 = C'était un rêve ? Je ne suis pas mort ?
+ChezHarold_Intro_5 = Ça explique tant de choses...
+ChezHarold_Intro_6 = Je dois cependant trouver ou je suis.
+ChezHarold_Intro_7 = Cette maison n'est pas la mienne...
+ChezHarold_Intro_8 = Ais-je été kidnappé pendant la nuit ?
+ChezHarold_Intro_9 = Je me lève et me dirige vers la sortie de la pièce.
+ChezHarold_Intro_10 = D'un coup, la porte s'ouvre et un vieillard entre dans la pièce.
+ChezHarold_Intro_11 = AHHH !
+ChezHarold_Intro_12 = AHHH !
+ChezHarold_Intro_13 = Que faites-vous dans ma salle de repos ? Et qui êtes-vous ?
+ChezHarold_Intro_14 = Je vais appeler la police fédérale si vous tentez de me voler mes biens !
+ChezHarold_Intro_15 = Comment ? Mais vous m'avez kidnappé si cette maison est à vous !
+ChezHarold_Intro_16 = Moi, un kidnappeur ? Jamais ! Je ne ferais jamais une telle chose !
+ChezHarold_Intro_17 = Alors comment expliquez-vous ma présence ? Je n'ai pas pu marcher en dormant jusqu'ici !
+ChezHarold_Intro_18 = Mmmhhh.......
+ChezHarold_Intro_19 = AHHHH ! Mais bien sur ! C'est donc cela !
+ChezHarold_Intro_20 = Je vais tout vous expliquer ! Ah, et appelez-moi Harold !
+ChezHarold_Intro_21 = Il se trouve que je vous ai invoqué, Héro !
+ChezHarold_Intro_22 = Quoi ? C'est absurde ! Je ne suis pas un Héro !
+ChezHarold_Intro_23 = Bien sur que si ! Vous êtes le Héro [MC] !
+ChezHarold_Intro_24 = Comment ? Vous connaissez mon nom ?
+ChezHarold_Intro_25 = Bien sur ! Je n'allais pas invoquer un noob quand même !
+ChezHarold_Intro_26 = Mais alors... Pourquoi me faire venir ici ?
+ChezHarold_Intro_27 = Et bien c'est très simple ! Je vais tout vous expliquer !
+ChezHarold_Intro_28 = Voyez-vous, il y a un terrible dragon qui vit dans la région.
+ChezHarold_Intro_29 = Il vit dans la forteresse Braise, de son nom : Le seigneur Braise !
+ChezHarold_Intro_30 = Il est vraiment terrible ! Le genre à brûler des voitures pour s'amuser !
+ChezHarold_Intro_31 = Il est dit aussi qu'il possède un trésor fou !
+ChezHarold_Intro_32 = C'est là que vous intervenez, [MC] !
+ChezHarold_Intro_33 = Vous devez aller terrasser ce tyran sanguinaire !
+ChezHarold_Intro_34 = Et me rapporter le trésor en plus...
+ChezHarold_Intro_35 = Je l'aurais bien fait, mais j'ai pris une flèche dans le genou il y a quelque temps...
+ChezHarold_Intro_36 = C'est pour cela que j'ai besoin de vous, [MC]. 
+ChezHarold_Intro_37 = Vous me demandez de tuer un dragon et de prendre son trésor, rien que ça ?
+ChezHarold_Intro_38 = C'est pas grand chose ! J'ai vu bien pire que ça !
+ChezHarold_Intro_39 = Si vous le tuez, vous aurez une récompense et je vous renvoie chez vous !
+ChezHarold_Intro_40 = Quel genre de récompense ?
+ChezHarold_Intro_41 = Vous verrez ! Alors ? C'est un bon marché, non ?
+ChezHarold_Intro_42 = Mmmhhh...
+ChezHarold_Intro_No = Je refuse de v-
+ChezHarold_Intro_Yes = Très bien, j'accepte de v-
+ChezHarold_Intro_43 = Merci de m'aider, [MC] ! Je savais que je pouvais vous faire confiance !
+ChezHarold_Intro_44 = J'ai la vague impression que mon choix n'était pas important...
+ChezHarold_Intro_45 = Mais non ! Vous avez eu une pop-up, non ?
+ChezHarold_Intro_46 = Enfin bon ! Je dois retourner à mes occupations.
+ChezHarold_Intro_47 = Je suis en train de lire un nouveau livre, pour mon... passe-temps.
+ChezHarold_Intro_48 = C'est... un livre de cuisine ! J'adore cuisiner pour mes petits-fils.
+ChezHarold_Intro_49 = Allez ! Bonne chance ! Venez me voir si vous avez besoin d'aide.
+ChezHarold_Intro_50 = Harold sort de la pièce, me laissant seul.
+ChezHarold_Intro_51 = Dans quelle aventure je me suis embarqué ?
+ChezHarold_Intro_52 = Bon, je devrais sortir d'ici pour le moment...
+ChezHarold_Intro_53 = Je sors de la pièce et je commence à partir.
+ChezHarold_Intro_54 = J'arrive dans le salon d'Harold. Il est déjà plongé dans son livre.
+ChezHarold_Intro_55 = Je me dirige ensuite vers la porte d'entrée. Il est l'heure de commencer mon aventure.
+ChezHarold_Intro_56 = Je l'ouvre et je me retrouve à l'extérieur.
+ChezHarold_Intro_57 = Enfin de l'air frais...
+ChezHarold_Intro_58 = Bien, je devrais trouver le dragon maintenant.
+ChezHarold_Intro_59 = Je commence à m'éloigner de la maison d'Harold.
+ChezHarold_Intro_60 = Une dague vient tout à coup se planter à côté de moi.
+ChezHarold_Intro_61 = Je me tourne et je fais face à un guerrier puissant.
+ChezHarold_Intro_62 = Eh, chevalier sans armure ! Stoppez vos mouvements à cet instant !
+ChezHarold_Intro_63 = Vous n'irez pas plus loin sur cette route. Je vais m'en assurer grâce à mes compétences hors normes.
+ChezHarold_Intro_64 = ....Quoi ?
+ChezHarold_Intro_65 = Le guerrier sort son épée. Il veut surement me tuer.
+ChezHarold_Intro_66 = Je suis Katsumoto, le samurai le plus puissant de la lointaine province de Runan !
+ChezHarold_Intro_67 = J'ai ouï dire que vous voulez terrasser le terrible seigneur Braise.
+ChezHarold_Intro_68 = Mais prenez garde ! Moi, Katsumoto, samurai le plus puissant de Runan, déclare :
+ChezHarold_Intro_69 = Le Seigneur Braise sera tué par moi-même et le trésor sera mien !
+ChezHarold_Intro_70 = Pas si je le fais avant !
+ChezHarold_Intro_71 = Vous voulez faire la course jusqu'au château ? C'est hilarant !
+ChezHarold_Intro_72 = Moi, Katsumoto, vais vous tuer à l'instant. Cela sera simple, rapide, et efficace.
+ChezHarold_Intro_73 = Permettez moi de commencer ce duel !
+ChezHarold_Intro_74 = Katsumoto se prépare à me tuer avec d'autres dagues.
+
+ChezHarold_Intro_75 = J'arrive sans trop de mal à contrer le samurai.
+ChezHarold_Intro_76 = Impossible ! La technique des sept dragons est supposée être infaillible.
+ChezHarold_Intro_77 = J'aurais ma vengeance ! Je retiendrais votre nom, [MC] !
+ChezHarold_Intro_78 = Le samurai s'enfuit en courant.
+ChezHarold_Intro_79 = Un bien étrange personnage...
+ChezHarold_Intro_80 = Je devrais me dépêcher. Il ne faut pas qu'il arrive au dragon avant moi.
+ChezHarold_Intro_81 = Je peux interagir avec les objets en surbrillance. Je peux aussi me déplacer en interagissant avec le bas de l'écran.
+ChezHarold_Intro_82 = Si je me perds, je peux demander conseil à Harold.
+
+ChezHarold_Car_1 = La voiture d'Harold. Elle est fermée, donc je ne peux pas entrer dedans.
+
+ChezHarold_Harold_Region_1 = Nous sommes dans la province de Vlatyr. Elle fait partie des Provinces-Unies de Kosky.
+ChezHarold_Harold_Region_2 = C'est une petite province entourée de montagnes. Elle est paisible la plupart du temps.
+ChezHarold_Harold_Region_3 = Vlatyr est la seule ville de la région, d'où son nom.
+ChezHarold_Harold_Region_4 = Il y a aussi un village au-delà du marais, Swamtyr, mais le marais est beaucoup trop dangereux.
+ChezHarold_Harold_Region_5 = Certains disent qu'un ogre vit dans ce dernier. Vous n'avez pas envie de le rencontrer.
+ChezHarold_Harold_Region_6 = Il y a encore quelques mois de cela, on pouvait utiliser une route pour atteindre le village sans passer par le marais.
+ChezHarold_Harold_Region_7 = Mais il y a eu un accident, et on ne peut plus utiliser la route pour le moment.
+ChezHarold_Harold_Region_8 = ... Il y a aussi RickeyLand, un parc d'attractions non loin d'ici.
+ChezHarold_Harold_Region_9 = Le propriétaire, Rickey, est un peu... excentrique ? Je ne le comprends pas beaucoup.
+ChezHarold_Harold_Region_10 = Dernièrement, Vlatyr abrite le seigneur Braise. C'est votre cible.
+ChezHarold_Harold_Region_11 = Il vit dans une forteresse cachée dans les montagnes. Personne n'est jamais revenu en vie.
+ChezHarold_Harold_Region_12 = Mais cela résume à peu près tout pour la province. Peu de chose à voir, mais c'est toujours sympa pour des vacances !
+
+ChezHarold_Harold_You_1 = Moi ? Voyons voir....
+ChezHarold_Harold_You_2 = Je suis Harold, à la retraite depuis quelques années.
+ChezHarold_Harold_You_3 = A l'époque, j'étais un danseur exceptionnel. Tout le monde était jaloux de mes compétences.
+ChezHarold_Harold_You_4 = Mais maintenant, je lis beaucoup... et je cuisine pour mes petits-enfants.
+ChezHarold_Harold_You_5 = Ils... sont vraiment spéciaux, vous savez ? Ils ont mis le feu à la cuisine une fois !
+ChezHarold_Harold_You_6 = Mais je suppose que c'est ce qu'il arrive quand on devient vieux.
+
+ChezHarold_Harold_MainQuest0_1 = Pour le moment, vous devez atteindre la forteresse Braise.
+ChezHarold_Harold_MainQuest0_2 = Pour y aller, vous devez passer soi par RickeyLand, soi par le marais.
+ChezHarold_Harold_MainQuest0_3 = RickeyLand est la solution facile, mais il est possible que le parc soit fermé.
+ChezHarold_Harold_MainQuest0_4 = Si c'est le cas, vous devrez traverser le marais et atteindre Swamtyr.
+ChezHarold_Harold_MainQuest0_5 = C'est dangereux, mais c'est le seul moyen. L'autre route pour aller à Swamtyr est bloquée.
+
+ChezHarold_Harold_MainQuest1_1 = Il semblerait que passer par le marais soit la seule solution...
+ChezHarold_Harold_MainQuest1_2 = Soyez prudent, [MC]. Les rumeurs disent qu'un ogre rode au coeur de ce dernier.
+
+ChezHarold_Harold_MainQuest2_1 = Vous avez réussi à traverser le marais ET à tuer l'ogre ? Impressionnant !
+ChezHarold_Harold_MainQuest2_2 = Maintenant, vous n'avez plus qu'à aller à Swamtyr, et à prendre la route pour la forteresse Braise.
+
+ChezHarold_Harold_MainQuest3_1 = Pour entrer dans la forteresse, vous devez obtenir un pass VIP à RickeyLand ?
+ChezHarold_Harold_MainQuest3_2 = C'est étrange... Je n'ai jamais entendu parler d'une telle chose.
+ChezHarold_Harold_MainQuest3_3 = Quasiment sur que l'on peut y obtenir un autographe de Rickey, cependant.
+
+ChezHarold_Harold_MainQuest3_Runcan_1 = Chevalier de Runan.... déjà de retour ?
+ChezHarold_Harold_MainQuest3_Runcan_2 = Oh ? Ecoutez-moi marmonner dans ma barbe !
+
+ChezHarold_Harold_MainQuest4_1 = Un sorcier a volé les clés de la forteresse ?
+ChezHarold_Harold_MainQuest4_2 = C'est.... ironique quand on y pense.
+
+ChezHarold_Harold_RickeyLandQuest1_1 = [MC] ! Déjà de retour ? Vous avez fait des progrès ?
+ChezHarold_Harold_RickeyLandQuest1_2 = Oui, enfin... Le garde à la forteresse ne me laissera entrer que si j'ai un "pass VIP".
+ChezHarold_Harold_RickeyLandQuest1_3 = Pour faire court, c'est en fait un autographe de Rickey, le fondateur de RickeyLand.
+ChezHarold_Harold_RickeyLandQuest1_4 = Je... quoi ? Je veux dire... Je vois ?
+ChezHarold_Harold_RickeyLandQuest1_5 = Et pour entrer à RickeyLand, j'ai besoin d'acheter un ticket.
+ChezHarold_Harold_RickeyLandQuest1_6 = Et vous n'avez pas d'argent, je comprends.
+ChezHarold_Harold_RickeyLandQuest1_7 = Attendez un instant... Je dois avoir du change qui traine quelque part...
+ChezHarold_Harold_RickeyLandQuest1_8 = Harold commence à chercher de l'argent sur sa table.
+ChezHarold_Harold_RickeyLandQuest1_9 = Ah, ici ! Ca devrait être assez.
+ChezHarold_Harold_RickeyLandQuest1_10 = Il me donne un billet de 10 galus. C'est plus qu'assez.
+ChezHarold_Harold_RickeyLandQuest1_11 = Merci, Harold. Maintenant je vais pouvoir obtenir son autographe...
+ChezHarold_Harold_RickeyLandQuest1_12 = Quel étrange personnage, ce garde... Et bien, bonne chance !
+
+ChezHarold_Harold_Default = [MC] ! Avez-vous besoin d'aide ?
+
+
+ChezHarold_End_1 = Quand j'arrive, Harold est déjà à l'extérieur.
+ChezHarold_End_2 = [MC] ! Vous êtes de retour ! Avez-vous réussi ?
+ChezHarold_End_3 = J'ai tué le dragon, et retrouvé votre "trésor".
+ChezHarold_End_4 = Ah, Ah... Merci beaucoup.
+ChezHarold_End_5 = Je suis désolé de vous avoir trompé de la sorte.
+ChezHarold_End_6 = J'ai pensé que vous ne m'auriez pas cru si j'avais dit la vérité...
+ChezHarold_End_7 = Mais bon, ça à marché au final, non ?
+ChezHarold_End_8 = Oui, je suppose...
+ChezHarold_End_9 = Bien ! Grâce à vos efforts, Vlatyr est de nouveau sûr.
+ChezHarold_End_10 = Le dragon est parti, et les voitures ne seront plus prises pour cibles.
+ChezHarold_End_11 = Vous ne pouvez pas imaginer à quel point c'était un problème.
+ChezHarold_End_12 = J'ai vu quelques voitures brulées durant mon voyage. Je peux deviner les ennuis qu'il a causés.
+ChezHarold_End_13 = Oui. Bien, je suppose qu'il est temps pour moi de vous renvoyer, comme promis.
+ChezHarold_End_14 = tenez ! Buvez ceci !
+ChezHarold_End_15 = Harold me donne son mug. Son contenu est vert, qu'est-ce ?
+ChezHarold_End_16 = C'est une potion qui vous renverra dans votre monde.
+ChezHarold_End_17 = Je vois. Merci, Harold.
+ChezHarold_End_18 = Je vous en prie ! Peut-être nous reverrons-nous un jour ? Qui sait...
+ChezHarold_End_19 = Peut-être. Pour le moment, au revoir.
+ChezHarold_End_20 = Adieux, [MC].
+ChezHarold_End_21 = Je bois la potion. Je tombe inconscient immédiatement.
+ChezHarold_End_22 = Quand je reprends connaissance, je suis chez moi, dans le monde réel.
+ChezHarold_End_23 = Et bien, c'était une étrange aventure.
+ChezHarold_End_24 = Je me demande si je reverrai Harold un jour...
+
+# ---------------------------------------------------------
+# ------------- Intersection ------------------------------
+# ---------------------------------------------------------
+
+
+Intersection_Intro_1 = J'arrive à une intersection. Le chemin se divise en deux.
+Intersection_Intro_2 = A gauche, le chemin va vers une sorte de parc d'attractions. Il est peut-être ouvert ?
+Intersection_Intro_3 = A droite, le chemin continue et entre au loin dans une forêt dense.
+Intersection_Intro_4 = Je dois choisir le chemin à prendre. Mais lequel est le bon ?
+
+# ---------------------------------------------------------
+# --------------- Rickeyland ------------------------------
+# ---------------------------------------------------------
+
+RickeyLandEntrance_Door_Closed_1 = La porte est fermée. Peut-être que le parc n'est pas encore ouvert ?
+
+RickeyLandEntrance_Door_NoTicket_1 = Eh ! Vous avez besoin d'acheter un ticket avant d'entrer.
+
+RickeyLandEntrance_Door_Done_1 = Je n'ai plus besoin d'y retourner.
+
+
+RickeyLandEntrance_Natasha_Default = Bonjour, vous avez besoin d'aide ?
+
+RickeyLandEntrance_Natasha_RickeyLandQuest0_1 = Bonjour, je suis Natasha. Bienvenue à RickeyLand, le meilleur parc du pays.
+RickeyLandEntrance_Natasha_RickeyLandQuest0_2 = Avez-vous besoin d'un ticket ? Venez-vous seul ?
+RickeyLandEntrance_Natasha_RickeyLandQuest0_3 = Oui, j'ai besoin d'un ticket. Et je suis seul.
+RickeyLandEntrance_Natasha_RickeyLandQuest0_4 = Je vois, vous venez pour une occasion spéciale ?
+RickeyLandEntrance_Natasha_RickeyLandQuest0_5 = Et bien, j'ai entendu dire qu'il y avait un événement à midi ?
+RickeyLandEntrance_Natasha_RickeyLandQuest0_6 = Ah oui. A midi, vous pouvez gagner un autographe spécial de Rickey, le fondateur du parc.
+RickeyLandEntrance_Natasha_RickeyLandQuest0_7 = Un autographe ? Allez, GARDE.... Tu m'as envoyé ici parce que tu le voulais, pas vrai ?
+RickeyLandEntrance_Natasha_RickeyLandQuest0_8 = Et bien, je vous souhaite bonne chance pour le concours. Seul le gagnant aura droit à un autographe.
+RickeyLandEntrance_Natasha_RickeyLandQuest0_9 = C'est un concours de poésie. Le plus beau poème sortira vainqueur.
+RickeyLandEntrance_Natasha_RickeyLandQuest0_10 = Mais la compétition sera féroce. J'ai entendu dire que plusieurs personnes de tout le pays sont venues aujourd'hui.
+RickeyLandEntrance_Natasha_RickeyLandQuest0_11 = Je... vois.
+RickeyLandEntrance_Natasha_RickeyLandQuest0_12 = Ca va être compliqué. Je ne sais pas écrire de poème.
+RickeyLandEntrance_Natasha_RickeyLandQuest0_13 =  Très bien. Donc cela fera 8.9 galus pour le ticket.
+RickeyLandEntrance_Natasha_RickeyLandQuest0_14 = Oh... je... n'ai pas d'argent, pas vrai ?
+RickeyLandEntrance_Natasha_RickeyLandQuest0_15 = Harold doit surement en avoir. Je devrais lui demander. En attendant.
+RickeyLandEntrance_Natasha_RickeyLandQuest0_16 = Euh... On dirait que j'ai oublié mon portefeuille chez moi. Puis-je aller le chercher ? 
+RickeyLandEntrance_Natasha_RickeyLandQuest0_17 = Oh, bien sur. Je ne vous retiens pas.
+RickeyLandEntrance_Natasha_RickeyLandQuest0_18 = Super. Maintenant, je dois trouver Harold.
+
+RickeyLandEntrance_Natasha_RickeyLandQuest2_1 = Rebonjour. J'ai retrouvé mon portefeuille.
+RickeyLandEntrance_Natasha_RickeyLandQuest2_2 = Ah, bien sur. Laissez-moi prendre votre argent...
+RickeyLandEntrance_Natasha_RickeyLandQuest2_3 = Je lui donne l'argent du ticket. Heureusement qu'Harold avait du change sur lui.
+RickeyLandEntrance_Natasha_RickeyLandQuest2_4 = Tout est bon ! Voilà votre ticket.
+RickeyLandEntrance_Natasha_RickeyLandQuest2_5 = Si vous voulez aller au concours, allez à la place centrale.
+RickeyLandEntrance_Natasha_RickeyLandQuest2_6 = Vous ne pouvez pas la rater, elle sera noire de monde.
+RickeyLandEntrance_Natasha_RickeyLandQuest2_7 = Merci, madame.
+RickeyLandEntrance_Natasha_RickeyLandQuest2_8 = Très bien, il est temps d'écrire des poèmes et de gagner des autographes.
+
+RickeyLandEntrance_Natasha_AboutYou_1 = Je suis Natasha, je travaille ici en tant que secrétaire pour le fondateur.
+RickeyLandEntrance_Natasha_AboutYou_2 = A cause du manque de personnel pour le moment, j'aide avec les ventes de billets.
+RickeyLandEntrance_Natasha_AboutYou_3 = J'ai commencé à travailler ici il y a quelques années. A l'époque, j'étais la seule employée. 
+RickeyLandEntrance_Natasha_AboutYou_4 = Maintenant la situation est meilleure. Nous ne manquons plus autant de bras qu'avant.
+
+RickeyLandEntrance_Natasha_AboutPark_1 = RickeyLand est le fruit de l'imagination de notre fondateur, Rickey.
+RickeyLandEntrance_Natasha_AboutPark_2 = Il l'a fondé il y a 5 ans, à partir de rien. C'était très compliqué au début.
+RickeyLandEntrance_Natasha_AboutPark_3 = Apparement, il avait déjà essayé auparevent de créer des parcs dans d'autres pays. Mais ils ont tous échoué.
+RickeyLandEntrance_Natasha_AboutPark_4 = RickeyLand est cependant différent. Nous sommes maintenant le 1er parc du pays.
+
+RickeyLand_MainQuest3_1 = Bien... il est temps de gagner cet autographe.
+RickeyLand_MainQuest3_2 = Natasha a dit que l'événement se déroulera à la place centrale.
+RickeyLand_MainQuest3_3 = Je m'y dirige, manquant de me perdre en chemin. Le parc est gigantesque.
+RickeyLand_MainQuest3_4 = Après avoir marché un peu, j'arrive enfin à la place centrale.
+RickeyLand_MainQuest3_5 = Au centre, il y a une statue géante. Je présume que c'est celle du fondateur.
+RickeyLand_MainQuest3_6 = Mais... quelque chose ne va pas. Ou sont les gens ?
+RickeyLand_MainQuest3_7 = On m'a dit qu'il y aurait de la compétition. Mais il n'y a personne ici.
+RickeyLand_MainQuest3_8 = Peut-être que l'événement prend place à un autre endroit ?
+RickeyLand_MainQuest3_9 = Il n'y a que moi, et ce type, la bas. Ce n'est pas beaucoup.
+RickeyLand_MainQuest3_10 = Il porte... une armure. Une armure de chevalier. Qui est-il ?
+RickeyLand_MainQuest3_11 = Dans tous les cas, peut-être qu'il sait ou sont parti les gens.
+RickeyLand_MainQuest3_12 = Je suis peut-être aussi en avance. Je n'ai pas vérifié l'heure avant d'entrer.
+RickeyLand_MainQuest3_13 = Excusez-moi, monsieur. Savez-vous s-
+RickeyLand_MainQuest3_14 = Hein ?!
+RickeyLand_MainQuest3_15 = L'homme se tourne soudainement et m'approche.
+RickeyLand_MainQuest3_16 = Qui êtes-vous ? Un autre concurrent ?
+RickeyLand_MainQuest3_17 = J'ai un mauvais pressentiment à propos de lui...
+RickeyLand_MainQuest3_18 = Je suis ici pour l'événement. Savez-vous s-
+RickeyLand_MainQuest3_19 = Je le savais, vous êtes un concurrent. Préparez-vous !
+RickeyLand_MainQuest3_20 = L'homme dégaine ses épées. Va-t-il essayer de me tuer ?
+RickeyLand_MainQuest3_21 = Attendez... Attendez... Pourquo-
+RickeyLand_MainQuest3_22 = Bien bien bien... Quelqu'un est venu à un duel les mains vides.
+RickeyLand_MainQuest3_23 = Soit. Prépare toi à mourir ! Je vais te faire fuir terrifié, comme les autres !
+RickeyLand_MainQuest3_24 = L'homme prépare ses épées. Il va vraiment essayer de me tuer !
+RickeyLand_MainQuest3_25 = Je scanne rapidement la zone. Mais je ne trouve pas d'objet qui pourrait servir d'épée.
+RickeyLand_MainQuest3_26 = Je dois penser à quelque chose.... Vite !!
+RickeyLand_MainQuest3_27 = Un instant !
+RickeyLand_MainQuest3_28 = Cette voix ! Grr.... Chanceux.
+RickeyLand_MainQuest3_29 = Chevalier de Runan ! Que faites-vous ?
+RickeyLand_MainQuest3_30 = J'ai déjà commencé les combats d'aujourd'hui. Personne ne me surpassera !
+RickeyLand_MainQuest3_31 = Chevalier ! Nous ne ferons pas de tournoi de combat aujourd'hui ! Nous allons faire une compétition de poésie.
+RickeyLand_MainQuest3_32 = Q- Quoi ?! .... Ça explique l'incompétence de mes adversaires.
+RickeyLand_MainQuest3_33 = Donc... je suppose qu'il ne reste plus que vous deux...
+RickeyLand_MainQuest3_34 = Ouaih.... désolé....
+RickeyLand_MainQuest3_35 = Tant pis... C'est ma faute. J'aurais dû changer l'événement plus tôt.
+RickeyLand_MainQuest3_36 = Mais au moins nous avons deux participants !
+RickeyLand_MainQuest3_37 = Commençons par nous introduire. Je vais commencer.
+RickeyLand_MainQuest3_38 = Je suis Rickey, le fondateur et PDG de ce parc. Ah Ah !
+RickeyLand_MainQuest3_39 = Je serais le juge aujourd'hui.
+RickeyLand_MainQuest3_40 = Je suis le Chevalier de Runan, propriétaire d'un manoir dans la province enneigée de Runan. 
+RickeyLand_MainQuest3_41 = Et... j'aime combattre.
+RickeyLand_MainQuest3_42 = Et je suis [MC]. Je... J'aime les pizzas ?
+RickeyLand_MainQuest3_43 = Splendide ! Jamais entendu parlé de ces 'pizzas', mais pourquoi pas !
+RickeyLand_MainQuest3_44 = Donc. Etes-vous prêt pour le concours de poésie ?
+RickeyLand_MainQuest3_45 = Votre but est d'écrire un poème à propos de moi, Rickey, PDG de RickeyLand !
+RickeyLand_MainQuest3_46 = Le plus beau poème gagnera, et le vainqueur gagnera un autographe.
+RickeyLand_MainQuest3_47 = Plutôt simple.
+RickeyLand_MainQuest3_48 = Oui. Mais un conseil, si je peux me permettre.
+RickeyLand_MainQuest3_49 = Le Chevalier de Runan est talentueux. Il est le champion de longue date du 'Concours Annuel de Rickey'.
+RickeyLand_MainQuest3_50 = Chaque année, il vient de la province de Runan pour participer dans l'événement. Il a toujours gagné.
+RickeyLand_MainQuest3_51 = Enfin... Jusqu'à cette année, c'était des tournois de combat. Il est fort à ceux-ci.
+RickeyLand_MainQuest3_52 = Je suis le meilleur au combat ! Personne ne peut me surpasser, surtout pas le vieux !
+RickeyLand_MainQuest3_53 = Mais je digresse. Vous connaissez les règles. Il est temps de commencer.
+RickeyLand_MainQuest3_54 = Donc, êtes-vous prêt ?
+RickeyLand_MainQuest3_55 = Super ! Allez-y !
+RickeyLand_MainQuest3_56 = Le Chevalier, apparemment le champion du concours, commence à écrire quelque chose.
+RickeyLand_MainQuest3_57 = Je suis fichu... Je ne sais pas quoi écrire.
+RickeyLand_MainQuest3_58 = Eh bien... Allons-y.
+
+RickeyLand_MainQuest3_59 = Très bien ! Stop !
+RickeyLand_MainQuest3_60 = Lisons vos poèmes, si vous le voulez bien.
+RickeyLand_MainQuest3_61 = Rickey ramasse nos poèmes. Je suis fichu.
+RickeyLand_MainQuest3_62 = J'ai juste écrit des mots au hasard. Ils ne forment même pas une phrase...
+RickeyLand_MainQuest3_63 = Je vais commencer par le poème du Chevalier. Voyons voir...
+RickeyLand_MainQuest3_64 = "Cher Rickey, PDG de RickeyLand."
+RickeyLand_MainQuest3_65 = "J'aimerais être couronné champion une fois de plus, s'il vous plait..."
+RickeyLand_MainQuest3_66 = ... Quel poème intéressant !
+RickeyLand_MainQuest3_67 = Mais lisons aussi celui de [MC] !
+RickeyLand_MainQuest3_68 = Donc... Hmm....
+RickeyLand_MainQuest3_69 = Rickey... Rickey.... Rickey... PANZER ?!
+RickeyLand_MainQuest3_70 = Incroyable ! Ce poème reflète totalement ma personnalité !
+RickeyLand_MainQuest3_71 = Moi, et mes panzers ! Quelle magnifique oeuvre d'art.
+RickeyLand_MainQuest3_72 = Quoi ? Il n'a même pas écrit de phrase ?! C'est de la triche !
+RickeyLand_MainQuest3_73 = Silence ! J'ai trouvé mon vainqueur ! Ah Ah !
+RickeyLand_MainQuest3_74 = [MC], bravo ! Vous avez gagné le concours de poésie !
+RickeyLand_MainQuest3_75 = Impossible ! Je... Je... J'aurais ma vengeance !
+RickeyLand_MainQuest3_76 = Le Chevalier prend la fuite. Je l'ai battu avec des mots.
+RickeyLand_MainQuest3_77 = Très bien ! Il est temps pour votre autographe.
+RickeyLand_MainQuest3_78 = Voyons voire... voilà !
+RickeyLand_MainQuest3_79 = Rickey me donne l'autographe. "Rickey" y est inscrit en gros.
+RickeyLand_MainQuest3_80 = Je dois dire, je suis reconnaissant. Le Chevalier pourrait ne pas revenir l'année prochaine.
+RickeyLand_MainQuest3_81 = Oh ? Il pose problème ?
+RickeyLand_MainQuest3_82 = Et bien. Vous avez vu ce qu'il a fait aux autres participants.
+RickeyLand_MainQuest3_83 = Chaque année, il vient, bat tout le monde, et part.
+RickeyLand_MainQuest3_84 = Ce n'était juste pas amusant du tout. Alors j'ai décidé de changer pour un concours de poésie.
+RickeyLand_MainQuest3_85 = Vous savez ce qui s'est passé par la suite. Il n'a même pas remarqué le changement...
+RickeyLand_MainQuest3_86 = Ah... Je vais juste devoir attendre ce qui va se passer.
+RickeyLand_MainQuest3_87 = Je vois. Bonne chance en tout cas.
+RickeyLand_MainQuest3_88 = Je lui dis au revoir, et quitte la place centrale.
+RickeyLand_MainQuest3_89 = Après avoir marché un peu, je suis de retour à l'entrée.
+RickeyLand_MainQuest3_90 = Il est temps de retourner voir GARDE. Il va vouloir voir son "pass VIP".
+
+
+# ---------------------------------------------------------
+# ------------------- Marais ------------------------------
+# ---------------------------------------------------------
+
+Swamp_Intro_1 = Après avoir marché un peu, j'arrive à l'entrée de la dense forêt.
+Swamp_Intro_2 = On dirait un marais. Il y a de l'eau partout.
+Swamp_Intro_3 = Peut-être qu'il est possible d'atteindre la forteresse du dragon en le traversant.
+Swamp_Intro_4 = Je dois cependant faire attention à ne pas me perdre. Qui sait quelles créatures rodent ici.
+
+Swamp_Intro_Bis_2 = Donc voila le marais dont Harold m'a parlé.
+Swamp_Intro_Bis_3 = Si je le traverse, je vais pouvoir atteindre la forteresse du dragon.
+Swamp_Intro_Bis_4 = J'espère juste qu'il n'y a pas de créature dangereuse à l'intérieur...
+
+Swamp_MainQuest1_1 = Après avoir marché un peu, je décide de m'arrêter pour sécher mes vêtements.
+Swamp_MainQuest1_2 = Ah... marcher dans l'eau n'est pas amusant. Pourquoi il n'y a pas de chemin alternatif ?
+Swamp_MainQuest1_3 = ...Mais au moins je n'ai pas encore été attaqué par un monstre.
+Swamp_MainQuest1_4 = ...Je me demande si la sortie est encore loin.
+Swamp_MainQuest1_5 = Euh... Derrière le rocher... c'est un vieillard ?
+Swamp_MainQuest1_6 = Il est peut-être perdu et a besoin d'aide ?
+Swamp_MainQuest1_7 = Je devrais lui parler. Je n'aime pas être seul de toute manière.
+Swamp_MainQuest1_8 = Hey ! Vous allez bien ?
+Swamp_MainQuest1_9 = Shhh ! Silence !
+Swamp_MainQuest1_10 = Vous ne voulez pas qu'il vous entende !
+Swamp_MainQuest1_11 = Il ? De qui parlez-vous ?
+Swamp_MainQuest1_12 = L'ogre, qui d'autre ? Il mange ceux qui se perdent dans le marais.
+Swamp_MainQuest1_13 = Ah... je suis fichu. Je ne veux plus être ici.
+Swamp_MainQuest1_14 = Je devrais partir avant qu'il ne me trouve. J'ai déjà fait trop de bruit.
+Swamp_MainQuest1_15 = Cachez-vous ! Il arrive...
+Swamp_MainQuest1_16 = Je m'exécute, et me cache derrière un arbre.
+Swamp_MainQuest1_17 = Je peux entendre des bruits de pas. Est-ce réellement l'ogre ?
+Swamp_MainQuest1_18 = Ils se rapprochent, mais je ne vois pas d'ou ils proviennent.
+Swamp_MainQuest1_19 = Soudain, ils s'arrêtent. Je ne peux plus les entendre.
+Swamp_MainQuest1_20 = Peut-être qu'il est parti ? Par pitié...
+Swamp_MainQuest1_21 = Euh ?
+Swamp_MainQuest1_22 = Je me retrouve soudainement devant une paire de jambes. Quelqu'un est là.
+Swamp_MainQuest1_23 = C'est... l'ogre ! Je suis fichu.
+Swamp_MainQuest1_24 = Ah ! Je savais que j'avais entendu un humain trainer dans le coin.
+Swamp_MainQuest1_25 = Juste à temps ! Je commençais à avoir faim.
+Swamp_MainQuest1_26 = Euh... et si... on ne faisait pas ça ?
+Swamp_MainQuest1_27 = Je... ne suis pas très bon, vous savez ? J'ai un gout de chou.
+Swamp_MainQuest1_28 = Laisse-moi tranquille.... Laisse-moi tranquille...
+Swamp_MainQuest1_29 = Ah, le chou ! Mon aliment favori à part les humains !
+Swamp_MainQuest1_30 = Tu vas faire un bon repas. Viens par ici !
+Swamp_MainQuest1_31 = L'ogre commence à s'approcher de moi. Il va me tuer.
+Swamp_MainQuest1_32 = Je fais un pas en arrière et commence à courir dans la direction opposée.
+Swamp_MainQuest1_33 = Hey ! Reviens, mon repas ! Je n'ai pas encore commencé.
+Swamp_MainQuest1_34 = Je dois trouver la sortie, maintenant !
+Swamp_MainQuest1_35 = Si je suis la rivière, je vais peut-être la trouver. Mais je dois être rapide.
+Swamp_MainQuest1_36 = Je saute dans l'eau et commence à courir, espérant trouver la sortie.
+
+Swamp_MainQuest1_37 = J'arrive à distancer l'ogre de plusieurs mètres, mais il est toujours derrière moi.
+Swamp_MainQuest1_38 = Reviens ! Je commence à avoir vraiment faim maintenant.
+Swamp_MainQuest1_39 = Devant moi se trouve un pont. Je peux voir la sortie au-delà de ce dernier.
+Swamp_MainQuest1_40 = Je suis sauvé ! Je n'ai plus qu'a... traverser le pont...
+Swamp_MainQuest1_41 = Je commence à le traverser. Je n'aime pas ça.
+Swamp_MainQuest1_42 = Après avoir traversé la moitié du pont, je regarde derrière moi.
+Swamp_MainQuest1_43 = L'ogre est juste derrière moi ! Je dois me dépêcher, ou je serai son prochain repas.
+Swamp_MainQuest1_44 = Ah ! On a peur du vide ? Viens par ici, je vais t'aider.
+Swamp_MainQuest1_45 = L'ogre s'approche de moi. Il est si lourd que le pont pourrait s'effondrer.
+Swamp_MainQuest1_46 = Je fais quelques pas en arrière. Je ne peux pas échouer à ce moment.
+Swamp_MainQuest1_47 = J'arrive enfin de l'autre côté. Maintenant...
+Swamp_MainQuest1_48 = Comment gérer l'ogre ? Il va bientôt finir de traverser le pont...
+Swamp_MainQuest1_49 = Je ne peux plus courir... je suis trop fatigué. Je dois trouver un moyen de me débarrasser de lui.
+Swamp_MainQuest1_50 = Ah ! On se repose ? Laisse-moi te rejoindre !
+Swamp_MainQuest1_51 = L'ogre a remarqué mon état de fatigue. Je dois agir vite.
+Swamp_MainQuest1_52 = Attend !
+Swamp_MainQuest1_53 = Un homme crie et bondit devant moi. Qui est-il ?
+Swamp_MainQuest1_54 = Tu ne vas pas manger cet homme, brigand !
+Swamp_MainQuest1_55 = L'homme pointe son arc sur l'ogre, qui commence à rire.
+Swamp_MainQuest1_56 =  Quoi ? Tu penses pouvoir me tuer avec une simple flèche ?
+Swamp_MainQuest1_57 = Non. Mais je peux faire ça !
+Swamp_MainQuest1_58 = L'homme tire une flèche directement dans le genou de l'ogre, qui vacille.
+Swamp_MainQuest1_59 = Puis, il lui saute dessus, et le pousse hors du pont.
+Swamp_MainQuest1_60 = L'ogre tombe et meurt sur un rocher. Il n'est plus une menace.
+Swamp_MainQuest1_61 = L'homme se retourne et me fait signe de la main.
+Swamp_MainQuest1_62 = Ah ! Je vois que je suis arrivé à temps.
+Swamp_MainQuest1_63 = Je patrouillais le marais, quand je vous ai vu vous faire poursuivre par ce brigand.
+Swamp_MainQuest1_64 = Merci beaucoup ! Il m'a quasiment eu !
+Swamp_MainQuest1_65 = Ah, Ah ! Ne vous inquiètez pas ! C'est naturel.
+Swamp_MainQuest1_66 = Je suis originaire de la province de Forestyr. J'avais entendu qu'il y avait de bonnes proies par ici.
+Swamp_MainQuest1_67 = Et je n'ai pas été déçu ! Chasser un ogre est plus captivant qu'un cerf.
+Swamp_MainQuest1_68 = Et vous, mon ami ? Qu'est-ce qui vous amène ici ?
+Swamp_MainQuest1_69 = Je me rends à la forteresse Braise. Un vieillard m'envoie.
+Swamp_MainQuest1_70 = Oh, celle du dragon ? Je vois. C'est la plus grosse proie de la région. Mais, vous savez, elle est dangereuse.
+Swamp_MainQuest1_71 = Si vous voulez vous rendre à la forteresse, continue tout droit. En sortant du marais, vous arriverez à Swamtyr..
+Swamp_MainQuest1_72 = Petit village avec peu à voir. Mais vous pourrez prendre une route qui mène directement à la forteresse.
+Swamp_MainQuest1_73 = Je vois... Merci, monsieur.
+Swamp_MainQuest1_74 = Il n'y a pas de quoi ! C'était du gâteau !
+Swamp_MainQuest1_75 = L'homme fait un backflip. Essaie-t-il de m'impressionner ?
+Swamp_MainQuest1_76 = Il y arrive, mais le pont est maintenant instable.
+Swamp_MainQuest1_77 = Euh ? Oh non !
+Swamp_MainQuest1_78 = Il tombe, je n'arrive même pas à voir ou il est tombé. Est-il mort ?
+Swamp_MainQuest1_79 = Ah... au moins je sais ou aller maintenant.
+Swamp_MainQuest1_80 = Je fais demi-tour, et sors du marais.
+
+Swamp_RescueQuest0_1 = Qui va là ? Oh, c'est vous.
+Swamp_RescueQuest0_2 = Que faites-vous ici ? Une poursuite avec l'ogre n'était pas suffisante pour vous ?
+Swamp_RescueQuest0_3 = J'ai tué l'ogre, le marais est en sécurité maintenant.
+Swamp_RescueQuest0_4 = Vraiment ? C'est une bonne nouvelle pour ma cueillette, ça. 
+Swamp_RescueQuest0_5 = Je suis venu vous dire que votre femme est inquiète.
+Swamp_RescueQuest0_6 = Vous devriez rentrer dès que possible.
+Swamp_RescueQuest0_7 = Anne... oui. Je devrais retourner auprès de ma vielle.
+Swamp_RescueQuest0_8 = Merci de m'avoir fait passer le message. Venez nous rendre visite un jour, jeunot.
+
+# ---------------------------------------------------------
+# ------------------ Swamtyr ------------------------------
+# ---------------------------------------------------------
+
+Swamtyr_Arrival_1 = Après avoir marché un peu, j'arrive enfin à Swamtyr.
+Swamtyr_Arrival_2 = Donc.... Apparement, je peux utiliser une route pour aller directement à la forteresse du dragon.
+Swamtyr_Arrival_3 = Mais je peux aussi parler un peu aux locaux. Cela ne pourrait pas me faire de mal.
+
+Swamtyr_Car_1 = Cette voiture a été détruite par le seigneur Braise, on dirait.
+
+Swamtyr_OldWoman_RescueQuestStart_1 = Oh, bonjour, jeune homme. Venez-vous du marais ?
+Swamtyr_OldWoman_RescueQuestStart_2 = Oui, je viens tout juste d'en sortir.
+Swamtyr_OldWoman_RescueQuestStart_3 = ... En fait, puis-je demander votre assistance ?
+Swamtyr_OldWoman_RescueQuestStart_4 = Mon mari est parti ce matin à la recherche de champignons.
+Swamtyr_OldWoman_RescueQuestStart_5 = Il est allé au marais, mais il n'est pas encore revenu.
+Swamtyr_OldWoman_RescueQuestStart_6 = L'auriez-vous par hasard croisé ? Je commence à m'inquiéter...
+Swamtyr_OldWoman_RescueQuestStart_7 = Ah... J'ai vu quelqu'un comme ça qui se cachait dans le marais. Ses vêtements sont semblables aux vôtres ?
+Swamtyr_OldWoman_RescueQuestStart_8 = Oui, c'est bien ça ! Comment va-t-il ?
+Swamtyr_OldWoman_RescueQuestStart_9 = Bien, je pense. Il se cachait de l'ogre, mais j'ai réussi à nous débarrasser du monstre.
+Swamtyr_OldWoman_RescueQuestStart_10 = Je vais aller voir. Avec un peu de chance, il n'a pas bougé depuis la dernière fois.
+Swamtyr_OldWoman_RescueQuestStart_11 = Merci beaucoup, jeune homme.
+
+Swamtyr_OldWoman_RescueQuest0_1 = Mon mari adore les champignons. Il les met partout.
+Swamtyr_OldWoman_RescueQuest0_2 = Cependant, dans la région, ils ne poussent que dans des endroits dangereux.
+Swamtyr_OldWoman_RescueQuest0_3 = J'aimerais tant qu'il les achète au marché à la place...
+
+Swamtyr_OldWoman_RescueQuest1_1 = Merci beaucoup, jeune homme !
+Swamtyr_OldWoman_RescueQuest1_2 = Mais, je suis navré. Je n'ai rien à vous donner en récompense.
+Swamtyr_OldWoman_RescueQuest1_3 = Ne vous inquiétez pas, c'était naturel.
+Swamtyr_OldWoman_RescueQuest1_4 = Je vois. Que Kalibu bénisse votre âme, jeune homme.
+
+Swamtyr_OldWoman_Default_1 = Si vous avez faim, n'hésitez pas à venir. Nous vous ferons un bol de soupe aux champignons.
+
+Swamtyr_OldMan_RescueQuest1_1 = Merci pour votre aide, jeunot.
+Swamtyr_OldMan_RescueQuest1_2 = Vous devriez parler à ma femme. Elle veut vous remercier proprement.
+
+Swamtyr_OldMan_Default_1 = Les champignons sont délicieux. Surtout ceux du marais.
+Swamtyr_OldMan_Default_2 = Ma vielle dit que c'est dangereux, mais je dis que la récompense vaut le risque.
+
+# ---------------------------------------------------------
+# ---------------- Montagnes ------------------------------
+# ---------------------------------------------------------
+
+
+Mountains_Sign_Default_1 = "Demeure du grand sorcier de Vlatyr"
+Mountains_Sign_Default_2 = Ou est la maison ?
+
+Mountains_Car_1 = On dirait qu'aucune voiture n'échappe au Seigneur Braise. Je ne sais même pas comment elle est arrivée là.
+
+Mountains_KeysQuest0_1 = "Demeure du grand sorcier de Vlatyr" est écrit sur le panneau.
+Mountains_KeysQuest0_2 = Mais quelque chose ne va pas. Ou est la maison ?
+Mountains_KeysQuest0_3 = GARDE m'a dit que le sorcier vivant par ici, mais je ne peux pas le trouver.
+Mountains_KeysQuest0_4 = Je suppose que le panneau est juste mal placé ? Peut-être qu'il vit autre part.
+Mountains_KeysQuest0_5 = Bien... on est dans des montagnes. Il pourrait être n'importe ou.
+Mountains_KeysQuest0_6 = Attend, attend, attend !
+Mountains_KeysQuest0_7 = Un homme en robes violettes sort de nulle part, et commence à me crier dessus.  
+Mountains_KeysQuest0_8 = Qui êtes-vous ?! Vous êtes le sorcier ?
+Mountains_KeysQuest0_9 = Vous osez insulter mon panneau, insolent ! Je vais vous punir pour ça !
+Mountains_KeysQuest0_10 = Je suis le grand sorcier de Vlatyr, l'un des meilleurs du pays ! 
+Mountains_KeysQuest0_11 = Et ça, c'est ma maison ! Le panneau dit la vérité !
+Mountains_KeysQuest0_12 = Il pointe l'herbe. Il n'y a rien ici...
+Mountains_KeysQuest0_13 = Je suis désolé... Je ne suis pas sur de comprendre...
+Mountains_KeysQuest0_14 = QUOI ?! C'est facile pourtant ! Tu vois bien ma belle maison ?
+Mountains_KeysQuest0_15 = Je vis ici ! C'est la plus grande maison du monde !
+Mountains_KeysQuest0_16 = Il est... fou, non ?
+Mountains_KeysQuest0_17 = Hey ! Tu m'écoutes ?
+Mountains_KeysQuest0_18 = O- Oui ! Bien sur !
+Mountains_KeysQuest0_19 = Donc, excuse-toi auprès de mon panneau et de ma magnifique demeure.
+Mountains_KeysQuest0_20 = Euh... pardon ?
+Mountains_KeysQuest0_21 = Super ! Nous sommes amis maintenant !
+Mountains_KeysQuest0_22 = Hein ?
+Mountains_KeysQuest0_23 = Je... devrais lui demander à propos des clés.
+Mountains_KeysQuest0_24 = Cool... je peux vous poser une question ?
+Mountains_KeysQuest0_25 = Bien sur ?! Tu as besoin de quelque chose ? Un renard magique ?!
+Mountains_KeysQuest0_26 = N- Non ! Je voulais vous parler de la forteresse Braise.
+Mountains_KeysQuest0_27 = J'ai entendu que des clés ont été volées, et j'en ai besoin pour entrer à l'intérieur.
+Mountains_KeysQuest0_28 = Sauriez-vous ou se trouvent ces clés, par hasard ? 
+Mountains_KeysQuest0_29 = Des clés ?! Ne manquez pas de respect à Talia !
+Mountains_KeysQuest0_30 = Talia ?
+Mountains_KeysQuest0_31 = Je l'ai sauvé de ce monstrueux garde à la forteresse.
+Mountains_KeysQuest0_32 = Je l'aime. Nous venons de nous marier !
+Mountains_KeysQuest0_33 = Hein ? Hein ?
+Mountains_KeysQuest0_34 = Donc... vous êtes marié à des clés ?
+Mountains_KeysQuest0_35 = N'osez pas la comparer aux autres clés !
+Mountains_KeysQuest0_36 = Elle leur ressemble, mais elle est différente !
+Mountains_KeysQuest0_37 = Il y a un dragon engravé sur elle !
+Mountains_KeysQuest0_38 = Donc c'est une clé normale...
+Mountains_KeysQuest0_39 = Je comprends ! Vous voulez kidnapper Talia ! Vous voulez voler ma femme !
+Mountains_KeysQuest0_40 = Je ne vais pas vous laisser faire ! Je vais vous tuer !
+Mountains_KeysQuest0_41 = Le sorcier commence à lancer des sorts. Je vais avoir des ennuis...
+
+Mountains_KeysQuest0_42 = Impossible ! Comment as-tu esquivé mes attaques magiques ?
+Mountains_KeysQuest0_43 = Vite ! Je dois faire une retraite tactique ! A ma maison !
+Mountains_KeysQuest0_44 = Le sorcier prend la fuite.
+Mountains_KeysQuest0_45 = En fuyant, il fait tomber les clés de la forteresse.
+Mountains_KeysQuest0_46 = Bien... Je suppose que j'ai les clés maintenant.
+Mountains_KeysQuest0_47 = Il est temps d'aller retourner voir GARDE. Il va vouloir ses clés.
+
+# ---------------------------------------------------------
+# --------------- Forteresse ------------------------------
+# ---------------------------------------------------------
+
+Fortress_Arrival_1 = Après avoir marché un peu, j'arrive enfin à la forteresse.
+Fortress_Arrival_2 = Effrayant....
+Fortress_Arrival_3 = Donc, le dragon vit ici ? Une forteresse pour lui tout seul...
+Fortress_Arrival_4 = Il est temps d'entrer à l'intérieur. Je ne sais pas comment je vais le tuer par contre....
+
+Fortress_Gate_MainQuest5_1 = Je n'ai plus besoin d'y retourner.
+
+Fortress_Gate_GUARD_MainQuest2_1 = Il y a un homme sur le balcon. Il semble surveiller l'entrée.
+Fortress_Gate_GUARD_MainQuest2_2 = Il sait sans doute ou se trouve le dragon. Je devrais lui parler.
+Fortress_Gate_GUARD_MainQuest2_3 = Excusez-moi, monsieur. J'aimerais entrer dans cette forteresse.
+Fortress_Gate_GUARD_MainQuest2_4 = Euh ? Vous voulez entrer dans la forteresse ? Pourquoi pas...
+Fortress_Gate_GUARD_MainQuest2_5 = C'était aussi facile que ça ?
+Fortress_Gate_GUARD_MainQuest2_6 = Attend une seconde ! Je ne peux pas vous laisser entrer sans vérifier vos intentions !
+Fortress_Gate_GUARD_MainQuest2_7 = Ou pas... au moins j'ai essayé.
+Fortress_Gate_GUARD_MainQuest2_8 = Pourquoi voulez-vous entrer dans la forteresse ? Hein, Hein ?
+Fortress_Gate_GUARD_MainQuest2_9 = Laissez-moi deviner. Vous voulez tuer notre bienveillant seigneur Braise, et voler son trésor ?
+Fortress_Gate_GUARD_MainQuest2_10 = Vous voulez le garder pour vous, et devenir riche ?
+Fortress_Gate_GUARD_MainQuest2_11 = Vous voulez empêcher notre magnifique seigneur de bruler des voitures ?
+Fortress_Gate_GUARD_MainQuest2_12 = Vous... attend, c'est plutôt une bonne chose à faire, ça...
+Fortress_Gate_GUARD_MainQuest2_13 = Il... peu importe. Je vais juste prétendre ne pas vouloir tuer le dragon.
+Fortress_Gate_GUARD_MainQuest2_14 = Oh, non. Je ne veux pas le tuer. Je veux lui payer tribut.
+Fortress_Gate_GUARD_MainQuest2_15 = J'ai apporté... de l'or et des trésors. J'espère qu'il les aimera.
+Fortress_Gate_GUARD_MainQuest2_16 = Oh... C'est un bon tribut pour notre seigneur.
+Fortress_Gate_GUARD_MainQuest2_17 = Je suis sur qu'il appréciera tout... attendez...
+Fortress_Gate_GUARD_MainQuest2_18 = Vous n'avez pas l'air de porter beaucoup d'or... Seriez-vous en train de me... mentir ?
+Fortress_Gate_GUARD_MainQuest2_19 = Oh... non. Je n'ai juste pas beaucoup d'argent.
+Fortress_Gate_GUARD_MainQuest2_20 = Je suis un pauvre fermier, payant tribut pour mes récoltes.
+Fortress_Gate_GUARD_MainQuest2_21 = Euh... Mensonge, ou pas mensonge ? C'est la question...
+Fortress_Gate_GUARD_MainQuest2_22 = Bon sang ! Je ne vais pas encore perdre mon travail pour une erreur pareil !
+Fortress_Gate_GUARD_MainQuest2_23 = Bien ! Je sais quoi faire pour m'assurer de vos intentions.
+Fortress_Gate_GUARD_MainQuest2_24 = Répondez-moi ! Allez vous tuer le seigneur Braise ?
+Fortress_Gate_GUARD_MainQuest2_25 = Euh... non ?
+Fortress_Gate_GUARD_MainQuest2_26 = Euh..... Euh.... Est-ce la vérité ?
+Fortress_Gate_GUARD_MainQuest2_27 = Je sais pas... Je sais pas... Je ne veux pas perdre mon travail.
+Fortress_Gate_GUARD_MainQuest2_28 = Je jure que je ne vais pas tuer le seigneur Braise.
+Fortress_Gate_GUARD_MainQuest2_29 = .... Je vois.... Très bien... Je vous fais confiance.
+Fortress_Gate_GUARD_MainQuest2_30 = Mais ! Je suis navré. Je ne peux pas vous laisser entrer pour le moment.
+Fortress_Gate_GUARD_MainQuest2_31 = Vous voyez, le seigneur Braise est présentement très occupé. Donc vous ne pouvez pas le déranger.
+Fortress_Gate_GUARD_MainQuest2_32 = Si vous voulez le faire, vous devez avoir un pass VIP.
+Fortress_Gate_GUARD_MainQuest2_33 = Un pass VIP, sérieusement ? Une telle chose existe ?
+Fortress_Gate_GUARD_MainQuest2_34 = Si vous voulez vous en procurer un, vous devez aller à RickeyLand.
+Fortress_Gate_GUARD_MainQuest2_35 = C'est un parc d'attractions qui est à côté du marais. Il devrait être ouvert maintenant.
+Fortress_Gate_GUARD_MainQuest2_36 = Grâce à un partenariat, des pass VIP sont distribuées tous les jours à midi.
+Fortress_Gate_GUARD_MainQuest2_37 = Donc, allez là-bas, obtenez un pass, et revenez. J'attendrais votre retour ici.
+Fortress_Gate_GUARD_MainQuest2_38 = Oh... et appelez-moi GARDE. C'est mon nom de code durant mon ancien travail.
+
+Fortress_Gate_GUARD_Default = Avez-vous besoin de mon aide, paysan ?
+
+Fortress_Gate_GUARD_MainQuest3_1 = Allez à RickeyLand, et obtenez un pass VIP.
+Fortress_Gate_GUARD_MainQuest3_2 = Vous ne pourrez pas entrer tant que vous n'en avez pas un.
+
+Fortress_Gate_GUARD_MainQuest3_3 = Vous... vous avez obtenu l'autographe ?!
+Fortress_Gate_GUARD_MainQuest3_4 = Bon sang ! J'avais quasiment perdu espoir de l'obtenir un jour.
+Fortress_Gate_GUARD_MainQuest3_5 = Ce n'est pas facile quand votre adversaire à des épées...
+Fortress_Gate_GUARD_MainQuest3_6 = Je peux entrer maintenant ? J'ai obtenu votre autographe.
+Fortress_Gate_GUARD_MainQuest3_7 = .... Ah. C'est embarrassant...
+Fortress_Gate_GUARD_MainQuest3_8 = J'ai... perdu la clé de la forteresse...
+Fortress_Gate_GUARD_MainQuest3_9 = Et la porte est fermée à clé. Donc je ne peux même pas sortir.
+Fortress_Gate_GUARD_MainQuest3_10 = Ou l'avez-vous perdu ?
+Fortress_Gate_GUARD_MainQuest3_11 = Et bien, vous voyez. Il y a un sorcier autoproclamé qui vit dans le coin.
+Fortress_Gate_GUARD_MainQuest3_12 = La plupart du temps, il reste chez lui. Mais pas aujourd'hui on dirait.
+Fortress_Gate_GUARD_MainQuest3_13 = Il est venu, et a volé les clés avec sa magie.
+Fortress_Gate_GUARD_MainQuest3_14 = Ne me demandez pas pourquoi. Je ne sais pas pourquoi quelqu'un aurait besoin de ces clés.
+Fortress_Gate_GUARD_MainQuest3_15 = ...Je vois. Je vais les retrouver.
+Fortress_Gate_GUARD_MainQuest3_16 = Vous allez faire ça ? Merci !
+
+Fortress_Gate_GUARD_MainQuest4_1 = Vous devez retrouver le sorcier qui a volé les clés.
+Fortress_Gate_GUARD_MainQuest4_2 = Il vit dans les montagnes, non loin d'ici.
+
+Fortress_Gate_GUARD_OtherJob_1 = J'ai commencé ma carrière en tant que garde du corps pour un politicien.
+Fortress_Gate_GUARD_OtherJob_2 = J'ai dû le suivre partout dans la capitale, Aajotyr.
+Fortress_Gate_GUARD_OtherJob_3 = Mais un jour, j'ai été trompé par un assassin très bien déguisé.
+Fortress_Gate_GUARD_OtherJob_4 = Pour faire court, le politicien est mort, et j'ai perdu mon travail.
+Fortress_Gate_GUARD_OtherJob_5 = J'ai cherché un nouvel emploi pendant des mois. Personne ne voulait d'un garde du corps raté.
+Fortress_Gate_GUARD_OtherJob_6 = Mais il y a un mois, le seigneur Braise m'a engagé ! Il a vu du potentiel en moi.
+
+Fortress_Gate_GUARD_Assassin_1 = Vous savez, l'assassinat est arrivé il y a quelques mois.
+Fortress_Gate_GUARD_Assassin_2 = Personne ne sait qui est l'assassin. Il a disparu juste après les faits.
+Fortress_Gate_GUARD_Assassin_3 = Mais laissez-moi vous dire, c'est vraiment louche !
+Fortress_Gate_GUARD_Assassin_4 = Le politicien en question menait l'enquête sur un étrange culte. Quelque chose à propos... d'invocations ?
+Fortress_Gate_GUARD_Assassin_5 = I n'a parlé de son enquête à personne, même pas à moi.
+Fortress_Gate_GUARD_Assassin_6 = Donc, quand il est mort, son enquête l'a suivi dans la tombe.
+Fortress_Gate_GUARD_Assassin_7 = Je parie mon revolver que le culte avait quelque chose à voir avec ça.
+Fortress_Gate_GUARD_Assassin_8 = Je vais mener ma propre enquête sur eux ! C'est moi que vous le dit !
+Fortress_Gate_GUARD_Assassin_9 = J'ai juste besoin d'argent.... J'en manque un peu pour le moment.
+
+Fortress_Gate_GUARD_Ember_1 = Le seigneur Braise est le généreux seigneur de cette forteresse.
+Fortress_Gate_GUARD_Ember_2 = J'ai été chanceux d'être sélectionné en tant que son garde. C'est un honneur.
+Fortress_Gate_GUARD_Ember_3 = Certains disent qu'il est un monstre, un tyran. Mais laissez-moi vous dire quelque chose.
+Fortress_Gate_GUARD_Ember_4 = Qui m'a donné une chance quand j'avais des problèmes ? Le seigneur Braise ?
+Fortress_Gate_GUARD_Ember_5 = Qui m'a humilié après avoir échoué lors de l'assassinat ? Pas lui.
+Fortress_Gate_GUARD_Ember_6 = Oui, il aime bruler les voitures, les maisons, les récoltes... et les gens.
+Fortress_Gate_GUARD_Ember_7 = Mais au fond, c'est un bon dragon. J'en suis sur.
+Fortress_Gate_GUARD_Ember_8 = Enfin, j'espère.... J'attends encore mon salaire du mois dernier.
+
+
+Fortress_MainQuest5_1 = Ah, vous avez trouvé les clés ! Bien joué !
+Fortress_MainQuest5_2 = Oui, j'ai vaincu le sorcier qui les avait volés.
+Fortress_MainQuest5_3 = Bien. Au moins c'est un problème de moins pour la région.
+Fortress_MainQuest5_4 = Il est connu pour faire des choses illogiques dans cette dernière.
+Fortress_MainQuest5_5 = Par exemple, il vole des portes et il transforme des voitures en lapins.
+Fortress_MainQuest5_6 = Il n'y a pas l'air d'avoir un sens profond à ces actes. C'est surtout pénible...
+Fortress_MainQuest5_7 = Je vois... Et bien, il ne devrait plus le faire pendant un moment, je pense.
+Fortress_MainQuest5_8 = Oui. Mais bon, vous pouvez entrer dans la forteresse maintenant.
+Fortress_MainQuest5_9 = Allez payer tribut à notre seigneur. Souvenez-vous juste de me rendre les clés avant de partir.
+Fortress_MainQuest5_10 = Bien sur.
+Fortress_MainQuest5_11 = Enfin. Après tout ce temps, je vais pouvoir entrer dans la forteresse.
+Fortress_MainQuest5_12 = J'ouvre la porte avec les clés. C'est la fin.
+Fortress_MainQuest5_13 = Attendez un instant !
+Fortress_MainQuest5_14 = J'entends une voix familière. C'est celle du samurai !
+Fortress_MainQuest5_15 = Je suis venu terrasser le lézard géant sans honneur, le seigneur Braise ! 
+Fortress_MainQuest5_16 = Je pense vous avoir déjà déclaré auparavant, que seul moi pourrait le tuer avec mes propres mains.
+Fortress_MainQuest5_17 = Attendez ! Vous ne pouvez pas entrer sans autorisation !
+Fortress_MainQuest5_18 = Un agent de sécurité ? Inefficace ! La mort du lézard géant sans honneur a déjà été décidée !
+Fortress_MainQuest5_19 = Il va falloir me passer sur le corps pour ça, brigand !
+Fortress_MainQuest5_20 = Katsumoto me pousse sur le côté, et entre dans la forteresse.
+Fortress_MainQuest5_21 = GARDE le suit en prenant la porte du balcon.
+Fortress_MainQuest5_22 = Je n'aime pas ça du tout.
+Fortress_MainQuest5_23 = Je veux dire. La solution facile serait de laisser Katsumoto tuer le dragon pour moi.
+Fortress_MainQuest5_24 = Mais il pourrait alors voler ce qu'Harold m'a demandé de prendre. Peu importe ce que c'est.
+Fortress_MainQuest5_25 = Donc, je vais devoir le rattraper.
+Fortress_MainQuest5_26 = J'entre dans la forteresse, il est temps d'en finir.
+Fortress_MainQuest5_27 = Après avoir marché un peu, je trouve GARDE dans un coin.
+Fortress_MainQuest5_28 = GARDE ?! Vous allez bien ?
+Fortress_MainQuest5_29 = Oui... C'est juste... Je suis perdu...
+Fortress_MainQuest5_30 = P- Perdu ?! Mais vous connaissez l'endroit, non ? Vous travaillez ici !
+Fortress_MainQuest5_31 = Et bien... La forteresse est un labyrinthe. Tant de portes, et une seule permet d'atteindre le Seigneur Braise.
+Fortress_MainQuest5_32 = Et je ne me souviens pas de laquelle...
+Fortress_MainQuest5_33 = C'est un problème. Si je ne fais pas attention, je pourrai me perdre.
+Fortress_MainQuest5_34 = Je vais trouver le seigneur Braise, n'ayez crainte.
+Fortress_MainQuest5_35 = Vraiment ? Merci...
+Fortress_MainQuest5_36 = Bien, il est temps d'y aller.
+Fortress_MainQuest5_37 = Je commence à marcher, sans savoir ou je vais.
+
+Fortress_MainQuest5_38 = J'arrive enfin à la chambre du Seigneur Braise.
+Fortress_MainQuest5_39 = Elle est gigantesque, et pleine d'or.
+Fortress_MainQuest5_40 = Etrange... J'ai l'impression de l'avoir déjà vu...
+Fortress_MainQuest5_41 = Peut importe ! Je dois me focaliser sur trouver-
+Fortress_MainQuest5_42 = -Katsumoto... qui est en train de jouer de la flûte.
+Fortress_MainQuest5_43 = Le dragon est à côté de lui. Il a l'air d'être en transe.
+Fortress_MainQuest5_44 = Que fait Katsumoto ?
+Fortress_MainQuest5_45 = Ecoutez-moi donc cette douce mélodie, lézard géant sans honneur.
+Fortress_MainQuest5_46 = Laissez cette belle berceuse vous mener dans les bras de morphée.
+Fortress_MainQuest5_47 = Dormez avec aisance, car cette sieste sera la meilleure de votre longue vie.
+Fortress_MainQuest5_48 = Il est en train de charmer le dragon avec sa flûte ?
+Fortress_MainQuest5_49 = Ca à l'air de marcher pour le moment.
+Fortress_MainQuest5_50 = Oh ?
+Fortress_MainQuest5_51 = Katsumoto a joué une fausse note. Le dragon commence à sortir de sa transe.
+Fortress_MainQuest5_52 = Grr ! Comment oses-tu me charmer avec cette flûte !
+Fortress_MainQuest5_53 = Je vais te rôtir vivant !
+Fortress_MainQuest5_54 = Le souffle ardent du dragon embrase Katsumoto.
+Fortress_MainQuest5_55 = Le samurai tombe au sol, encore fumant.
+Fortress_MainQuest5_56 = Le Seigneur Braise se tourne à présent vers moi. Je suis dans le pétrin...
+Fortress_MainQuest5_57 = Grr ! Cet humain pensait pouvoir me tuer avec un tour aussi nul !
+Fortress_MainQuest5_58 = Et toi, mortel ? Es-tu venu me tuer, toi aussi ?
+Fortress_MainQuest5_59 = Je... J'ai été envoyé par Harold, un local, pour arrêter votre vague de crimes !
+Fortress_MainQuest5_60 = Harold ?! Cet idiot t'a envoyé ? S'il veut vraiment retrouver ses biens, il devrait venir me faire face !
+Fortress_MainQuest5_61 = Ses biens ? Je ne suis pas sur de comprendre...
+Fortress_MainQuest5_62 = Il ne t'a pas dit ce qu'il cherchait vraiment à obtenir ? Hilarant !
+Fortress_MainQuest5_63 = J'adore brûler des voitures, c'est un prank rigolo !
+Fortress_MainQuest5_64 = Mais avec Harold, j'ai décidé de changer un peu. J'ai volé ses clés de voiture !
+Fortress_MainQuest5_65 = Donc maintenant, le seul moyen pour lui de réutiliser sa voiture, c'est de venir ici les chercher !
+Fortress_MainQuest5_66 = Mais, on dirait qu'il a fini par trouver quelqu'un pour y aller à sa place. Quel nul !
+Fortress_MainQuest5_67 = Harold... Je fais vraiment ça pour des clés ?!
+Fortress_MainQuest5_68 = Je dois dire, je suis déçu. Je voulais me venger pour la fois dernière.
+Fortress_MainQuest5_69 = Mais, tu feras un bon prix de consolation.
+Fortress_MainQuest5_70 = Il est temps de mourir, mortel ! Une dernière volonté ?
+Fortress_MainQuest5_71 = Euh.... On peut négocier ?
+Fortress_MainQuest5_72 = Grr ! Non.
+Fortress_MainQuest5_73 = Je dois trouver quelque chose, vite ! Ou je vais finir comme dans mon rêve !
+Fortress_MainQuest5_74 = Je regarde la pièce. Il doit y avoir quelque chose, n'importe quoi.
+Fortress_MainQuest5_75 = Mon regard s'arrête sur la flûte de Katsumoto.
+Fortress_MainQuest5_76 = Peut-être que je peux charmer le dragon une fois de plus, puis le tuer.
+Fortress_MainQuest5_77 = Je ramasse la flûte, et me prépare.
+Fortress_MainQuest5_78 = La flûte ?! Tu n'as pas vu ce qui est arrivé à l'autre ?
+Fortress_MainQuest5_79 = Elle ne te sauvera pas ! Tu ne vas que délayer l'inévitable !
+Fortress_MainQuest5_80 = Je vais tout de même essayer ! S'il vous plait, écoutez ma douce mélodie.
+Fortress_MainQuest5_81 = Je commence à jouer de la flûte, espérant réussir.
+
+Fortress_MainQuest5_82 = J'ai réussi ! J'ai charmé le dragon !
+Fortress_MainQuest5_83 = Je n'ai plus qu'à trouver un moyen de m'en débarrasser...
+Fortress_MainQuest5_84 = Oh ! Je sais !
+Fortress_MainQuest5_85 = Et maintenant, Seigneur Braise. Ecrasez-vous dans un volcan.
+Fortress_MainQuest5_86 = Mhm... Oui... Bien sur....
+Fortress_MainQuest5_87 = Le dragon s'envole. Ou ? Je ne sais pas...
+Fortress_MainQuest5_88 = Mais au moins, il n'est plus là. Il devrait mourir dans un volcan.
+Fortress_MainQuest5_89 = Bon, il est temps de retrouver le "trésor" d'Harold...
+Fortress_MainQuest5_90 = Je commence à chercher. L'endroit est rempli d'or, mais je ne vois pas de clés.
+Fortress_MainQuest5_91 = Après quelques minutes, je les trouve enfin, cachées derrière un lingot d'or.
+Fortress_MainQuest5_92 = Bien. Il est temps de rentrer. Harold est surement en train de m'attendre.
+Fortress_MainQuest5_93 = Mais quand même, je n'arrive pas à croire qu'il m'a trompé de la sorte.
+Fortress_MainQuest5_94 = Je veux dire... Je comprends sa réticence à me dire la vérité. Mais quand même...
+Fortress_MainQuest5_95 = Je sors à l'extérieur en passant par la porte principale.
+Fortress_MainQuest5_96 = Je ne vois pas GARDE. Je suppose qu'il a pris la fuite durant mon combat.
+Fortress_MainQuest5_97 = Tant pis. Je vais garder les clés en souvenir.
+Fortress_MainQuest5_98 = Il est temps de rentrer maintenant.

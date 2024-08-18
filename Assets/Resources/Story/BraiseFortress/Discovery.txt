@@ -1,0 +1,8 @@
+dialog(narrator;_;false;Fortress_Arrival_1)
+dialog([MC];_;false;Fortress_Arrival_2)
+dialog([MC];_;false;Fortress_Arrival_3)
+dialog([MC];_;false;Fortress_Arrival_4)
+
+variable(discoveredFortress;1)
+
+load(BraiseFortress/Interaction)

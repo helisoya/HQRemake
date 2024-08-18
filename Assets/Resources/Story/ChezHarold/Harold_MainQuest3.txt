@@ -1,0 +1,10 @@
+if(rickeyLandQuest = 4) ChezHarold/Harold_MainQuest3_Runcan
+
+setCharacterEye(Harold;Surprise)
+dialog(Harold;Harold;false;ChezHarold_Harold_MainQuest3_1)
+dialog(Harold;Harold;false;ChezHarold_Harold_MainQuest3_2)
+
+setCharacterEye(Harold;Normal)
+dialog(Harold;Harold;false;ChezHarold_Harold_MainQuest3_3)
+
+load(ChezHarold/Harold_Default)

@@ -1,0 +1,7 @@
+setCharacterEye(Harold;Surprise)
+dialog(Harold;Harold;false;ChezHarold_Harold_MainQuest4_1)
+
+setCharacterEye(Harold;Normal)
+dialog(Harold;Harold;false;ChezHarold_Harold_MainQuest4_2)
+
+load(ChezHarold/Harold_Default)

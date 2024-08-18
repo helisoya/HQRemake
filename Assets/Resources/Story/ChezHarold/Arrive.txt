@@ -1,0 +1,11 @@
+playMusic(Exploration_1)
+removeAllCharacters()
+setBackground(HaroldExterior)
+
+if(mainQuest = 5) ChezHarold/End
+
+setInteractionChapter(Door;ChezHarold/Salon_Enter)
+setInteractionChapter(Car;ChezHarold/Car)
+setInteractionChapter(Exit;MAP-Vlatyr-ChezHarold)
+
+interact

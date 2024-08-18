@@ -1,0 +1,13 @@
+setBackground(Swamtyr)
+
+addCharacter(OldWoman;false)
+setCharacterPosition(OldWoman;Civilian1)
+setCharacterRotation(OldWoman;Civilian1)
+
+fadeBg(0;false)
+
+dialog(narrator;_;false;Swamtyr_Arrival_1)
+dialog([MC];_;false;Swamtyr_Arrival_2)
+dialog([MC];_;false;Swamtyr_Arrival_3)
+
+load(Swamtyr/Arrive)

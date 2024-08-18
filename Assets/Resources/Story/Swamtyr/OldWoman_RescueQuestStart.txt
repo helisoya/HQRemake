@@ -1,0 +1,15 @@
+dialog(OldWoman;OldWoman;false;Swamtyr_OldWoman_RescueQuestStart_1)
+dialog([MC];_;false;Swamtyr_OldWoman_RescueQuestStart_2)
+dialog(OldWoman;OldWoman;false;Swamtyr_OldWoman_RescueQuestStart_3)
+dialog(OldWoman;OldWoman;false;Swamtyr_OldWoman_RescueQuestStart_4)
+dialog(OldWoman;OldWoman;false;Swamtyr_OldWoman_RescueQuestStart_5)
+dialog(OldWoman;OldWoman;false;Swamtyr_OldWoman_RescueQuestStart_6)
+dialog([MC];_;false;Swamtyr_OldWoman_RescueQuestStart_7)
+dialog(OldWoman;OldWoman;false;Swamtyr_OldWoman_RescueQuestStart_8)
+dialog([MC];_;false;Swamtyr_OldWoman_RescueQuestStart_9)
+dialog([MC];_;false;Swamtyr_OldWoman_RescueQuestStart_10)
+dialog(OldWoman;OldWoman;false;Swamtyr_OldWoman_RescueQuestStart_11)
+
+variable(rescueQuest;0)
+
+load(Swamtyr/OldWoman_Exit)

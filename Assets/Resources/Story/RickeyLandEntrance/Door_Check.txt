@@ -1,0 +1,5 @@
+if(mainQuest < 3) RickeyLandEntrance/Door_Closed
+if(rickeyLandQuest < 3) RickeyLandEntrance/Door_NoTicket
+if(rickeyLandQuest > 3) RickeyLandEntrance/Door_Done
+
+load(RickeyLandEntrance/MainQuest3)

@@ -1,0 +1,8 @@
+setCharacterAlpha(OldMan;0;true)
+
+setCharacterPosition(OldMan;Civilian2)
+setCharacterRotation(OldMan;Civilian2)
+
+setCharacterAlpha(OldMan;1;false)
+
+load(Swamtyr/Interaction)

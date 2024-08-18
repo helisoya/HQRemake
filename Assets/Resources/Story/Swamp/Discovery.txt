@@ -1,0 +1,11 @@
+dialog(narrator;_;false;Swamp_Intro_1)
+
+if(talkedAboutSwampToHarold = 1) Swamp/Discovery_TalkedToHarold
+
+dialog(narrator;_;false;Swamp_Intro_2)
+dialog([MC];_;false;Swamp_Intro_3)
+dialog([MC];_;false;Swamp_Intro_4)
+
+variable(mainQuest;1)
+variable(discoveredSwamp;1)
+load(Swamp/Interaction)

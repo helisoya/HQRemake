@@ -1,0 +1,6 @@
+dialog(Natasha;Natasha;false;RickeyLandEntrance_Natasha_AboutYou_1)
+dialog(Natasha;Natasha;false;RickeyLandEntrance_Natasha_AboutYou_2)
+dialog(Natasha;Natasha;false;RickeyLandEntrance_Natasha_AboutYou_3)
+dialog(Natasha;Natasha;false;RickeyLandEntrance_Natasha_AboutYou_4)
+
+load(RickeyLandEntrance/Natasha)

@@ -1,0 +1,7 @@
+playMusic(Exploration_1)
+removeAllCharacters()
+setBackground(Intersection)
+
+if(discoveredIntersection = 0) Intersection/Discovery
+
+load(Intersection/Interaction)
